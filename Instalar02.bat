@@ -1,0 +1,1 @@
+G:\programas\PROGRESS_OE_11.7.1_WIN_32\setup.exe -psc_s -psc_f1=G:\programas\responsesp.ini -psc_f2=C:\temp\oesetup_p1171.log 

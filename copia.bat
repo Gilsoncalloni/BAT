@@ -1,0 +1,1 @@
+xcopy "\\s3\e$\Backup_P11\backup\*.*"  /y /e  "C:\temp\p11\" > "C:\temp\p11\bancos-totvs12.log"

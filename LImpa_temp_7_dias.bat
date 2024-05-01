@@ -1,0 +1,1 @@
+if exist c:\temp ForFiles /p "c:\temp" /s /d -3 /c "cmd /c del /q @file"

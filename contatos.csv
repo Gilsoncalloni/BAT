@@ -1,0 +1,638 @@
+﻿Company;SamAccountName;Name;Mail;OfficePhone;Department;Title;PasswordNeverExpires;Enabled;Created;ScriptPath;LastLogonDate;Description;CanonicalName;Inicial;Resutado
+;KL-AK-FE5DBBA9AEF340;KL-AK-FE5DBBA9AEF340;;;Sistema;;True;True;24/11/2014 13:20;;24/10/2019 13:39;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-FE5DBBA9AEF340;;
+;KL-AK-FAE0B643869409;KL-AK-FAE0B643869409;;;Sistema;;True;True;18/11/2014 08:10;;24/10/2019 08:03;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-FAE0B643869409;;
+;KlPxeUser717315ADA19;KlPxeUser717315ADA19;;;Sistema;;;;;;;;;;
+;KlPxeUser19007E76874;KlPxeUser19007E76874;;;Sistema;;;;;;;;;;
+;KL-AK-A5872B224712CB;KL-AK-A5872B224712CB;;;Sistema;;True;True;30/10/2014 17:40;;24/10/2019 08:33;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-A5872B224712CB;;
+;KL-AK-7B319745176C1F;KL-AK-7B319745176C1F;;;Sistema;;True;True;25/11/2014 10:20;;24/10/2019 07:32;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-7B319745176C1F;;
+;KL-AK-E223496E778508;KL-AK-E223496E778508;;;Sistema;;True;True;04/12/2014 14:09;;24/10/2019 07:53;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-E223496E778508;;
+;KL-AK-A648F43CDDDE06;KL-AK-A648F43CDDDE06;;;Sistema;;True;True;03/11/2014 08:27;;24/10/2019 09:24;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-A648F43CDDDE06;;
+;KlPxeUser8377D50E98C;KlPxeUser8377D50E98C;;;Sistema;;;;;;;;;;
+;KlScSvcC307BBE061E90;KlScSvcC307BBE061E90;;;Sistema;;;;;;;;;;
+;KlScSvcBAECBF482668C;KlScSvcBAECBF482668C;;;Sistema;;;;;;;;;;
+;TsInternetUser;TsInternetUser;;;Sistema;;True;True;15/08/2000 13:40;;24/10/2019 07:42;Esta conta de usuário é usada pelos serviços de terminal.;oderich.com.br/Users/TsInternetUser;;
+;KlScSvcF449C4CA5C499;KlScSvcF449C4CA5C499;;;Sistema;;;;;;;;;;
+;KlPxeUserD569A89549D;KlPxeUserD569A89549D;;;Sistema;;;;;;;;;;
+;KlPxeUser9DA86170F7B;KlPxeUser9DA86170F7B;;;Sistema;;;;;;;;;;
+;KlScSvcAFC34EC8CB097;KlScSvcAFC34EC8CB097;;;Sistema;;;;;;;;;;
+;KlScSvc515624C6C2DEC;KlScSvc515624C6C2DEC;;;Sistema;;;;;;;;;;
+;KL-AK-780B6FA593D341;KL-AK-780B6FA593D341;;;Sistema;;True;True;31/10/2014 10:46;;24/10/2019 07:42;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-780B6FA593D341;;
+;installhotfix;InstallHotFix;;;Sistema;;True;True;13/10/2008 17:51;;24/10/2019 08:43;;oderich.com.br/Users/InstallHotFix;;
+;ILS_ANONYMOUS_USER;ILS_ANONYMOUS_USER;;;Sistema;;True;True;28/08/2002 15:28;;28/10/2019 07:30;Anonymous Account for ILS Server;oderich.com.br/Users/ILS_ANONYMOUS_USER;;
+;IUSR_S3;IUSR_S3;;;Sistema;;True;True;30/11/2005 14:33;SCRIPT.BAT;24/10/2019 08:12;Conta interna para acesso anônimo ao Internet Information Services;oderich.com.br/Users/IUSR_S3;;
+;IUSR_S1;IUSR_S1;;;Sistema;;True;True;23/11/2001 13:02;;28/10/2019 07:30;Conta interna para acesso anônimo ao Internet Information Services;oderich.com.br/Users/IUSR_S1;;
+;biometria.pelotas;Biometria;;;;;;;;;;Conta da Biometria;;;
+;analisys;Analysis Services;;;;;;;;;;;;;
+;biometria.orizona;Biometria Orizona;;;;;;;;;;Conta da BIometria;;;
+;biometria.eldorado;Biometria Eldorado;;;;;;;;;;Conta da Biometria;;;
+;IUSR_W2KSERVER1;IUSR_W2KSERVER1;;;Sistema;;True;True;17/12/2002 13:30;;24/10/2019 08:12;Built-in account for anonymous access to Internet Information Services;oderich.com.br/Users/IUSR_W2KSERVER1;;
+;KL-AK-5B0F06DC2A864E;KL-AK-5B0F06DC2A864E;;;Sistema;;True;True;24/11/2014 10:28;;28/10/2019 07:30;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-5B0F06DC2A864E;;
+;KL-AK-3458FAD595FB58;KL-AK-3458FAD595FB58;;;Sistema;;True;True;24/11/2014 08:53;;24/10/2019 09:24;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-3458FAD595FB58;;
+;KL-AK-670D358644CA51;KL-AK-670D358644CA51;;;Sistema;;True;True;25/11/2014 11:37;;24/10/2019 07:42;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-670D358644CA51;;
+;KL-AK-5CC148BEF4DFC6;KL-AK-5CC148BEF4DFC6;;;Sistema;;True;True;25/11/2014 09:52;;24/10/2019 10:25;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-5CC148BEF4DFC6;;
+;IWAM_S3;IWAM_S3;;;Sistema;;True;True;30/11/2005 14:34;SCRIPT.BAT;24/10/2019 08:53;Conta interna para o Internet Information Services iniciar a partir de aplicativos de processos;oderich.com.br/Users/IWAM_S3;;
+;IWAM_S1;IWAM_S1;;;Sistema;;True;True;23/11/2001 13:02;;24/10/2019 09:24;Conta interna para acesso anônimo aos aplicativos fora de um processo do Internet Information Services;oderich.com.br/Users/IWAM_S1;;
+;KL-AK-0809A9336A06B9;KL-AK-0809A9336A06B9;;;Sistema;;True;True;31/10/2014 13:12;;24/10/2019 07:42;A conta em que o Servidor de Administração é executado.;oderich.com.br/Users/KL-AK-0809A9336A06B9;;
+;IWAM_W2KSERVER1;IWAM_W2KSERVER1;;;Sistema;;True;True;17/12/2002 13:29;;24/10/2019 09:03;Built-in account for anonymous access to Internet Information Services out of process applications;oderich.com.br/Users/IWAM_W2KSERVER1;;
+Eldorado;cassia;Cassia Rubiane Barbosa;cassia@oderich.com.br;51 2123 0938;RH;;;;;;;Mat: 744;;Cassia ;Cassia ,,Cassia Rubiane Barbosa - Conservas Oderich S/A,,cassia@oderich.com.br,,,,51 2123 0938,,,,,,,,,,,,,,,,,,RH-Eldorado
+Eldorado;anderson;Anderson da Silva Medeiros;enfermaria.eldorado@oderich.com.br;51 2123 0940;RH;;;;;;;Mat: 849;;Anderson ;Anderson ,,Anderson da Silva Medeiros - Conservas Oderich S/A,,enfermaria.eldorado@oderich.com.br,,,,51 2123 0940,,,,,,,,,,,,,,,,,,RH-Eldorado
+Eldorado;marcias;Marcia de Souza;faturamento.eldorado@oderich.com.br;51 2123 0933;Recebimento;;;;;;;Mat: 640;;Marcia ;Marcia ,,Marcia de Souza - Conservas Oderich S/A,,faturamento.eldorado@oderich.com.br,,,,51 2123 0933,,,,,,,,,,,,,,,,,,Recebimento-Eldorado
+Eldorado;alexandre.santos;Alexandre Santos Da Silveira;sesmt.eldorado@oderich.com.br;51 2123 0921;Sesmt;;;;;;;;;Alexandre ;Alexandre ,,Alexandre Santos Da Silveira - Conservas Oderich S/A,,sesmt.eldorado@oderich.com.br,,,,51 2123 0921,,,,,,,,,,,,,,,,,,Sesmt-Eldorado
+Eldorado;luis;Luis Carlos Souza Da Rocha;luis@oderich.com.br;51 2123 0932;RH;;;;;;;Mat: 93;;Luis ;Luis ,,Luis Carlos Souza Da Rocha - Conservas Oderich S/A,,luis@oderich.com.br,,,,51 2123 0932,,,,,,,,,,,,,,,,,,RH-Eldorado
+Eldorado;estela;Estela Helena Leite Vieira;estela@oderich.com.br;51 2123 0931;RH;;;;;;;Mat: 888;;Estela ;Estela ,,Estela Helena Leite Vieira - Conservas Oderich S/A,,estela@oderich.com.br,,,,51 2123 0931,,,,,,,,,,,,,,,,,,RH-Eldorado
+Eldorado;bobinas;Gildo Antunes Oliveira;;51 2123 09;Produção - Litografia;;;;;;;Mat: 101;;Gildo ;Gildo ,,Gildo Antunes Oliveira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,Produção - LitografiaEldorado
+Eldorado;manutencao.eld;Tamara Pereira Da Silva Passos;manutencao.eldorado@oderich.com.br;51 2123 09;Manutencao;;;;;;;Mat: 1157;;Tamara ;Tamara ,,Tamara Pereira Da Silva Passos - Conservas Oderich S/A,,manutencao.eldorado@oderich.com.br,,,,51 2123 09,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;romulo;Romulo Alfredo Guedes De Araujo;;51 2123 0913;Manutencao;;;;;;;Mat: 1078;;Romulo ;Romulo ,,Romulo Alfredo Guedes De Araujo - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,ManutencaoEldorado
+Eldorado;ariel;Ariel Oliveira de Magalhães;recebimento.eldorado@oderich.com.br;51 2123 0933;Recebimento;;;;;;;Mat: 1092;;Ariel ;Ariel ,,Ariel Oliveira de Magalhães - Conservas Oderich S/A,,recebimento.eldorado@oderich.com.br,,,,51 2123 0933,,,,,,,,,,,,,,,,,,Recebimento-Eldorado
+Eldorado;qualidade.eldorado;Marco Aurelio De Sousa Barbosa;qualidade.eldorado@oderich.com.br;51 2123 0927;Qualidade;;;;;;;Mat: 2564;;Marco ;Marco ,,Marco Aurelio De Sousa Barbosa - Conservas Oderich S/A,,qualidade.eldorado@oderich.com.br,,,,51 2123 0927,,,,,,,,,,,,,,,,,,Qualidade-Eldorado
+Eldorado;henrique.capparelli;Henrique De Mattos Capparelli;henrique.capparelli@oderich.com.br;51 2123 0927;Qualidade;;;;;;;Matr: 1357;;Henrique ;Henrique ,,Henrique De Mattos Capparelli - Conservas Oderich S/A,,henrique.capparelli@oderich.com.br,,,,51 2123 0927,,,,,,,,,,,,,,,,,,Qualidade-Eldorado
+Eldorado;litografia2;Litografia2;;51 2123 0927;Sistema;;;;;;;oderich@2018;;;
+Eldorado;litografia;Litografia Eldorado;;51 2123 0927;Sistema;;;;;;;;;;
+Eldorado;estamparia;Estamparia;;51 2123 09;Sistema;;;;;;;;;;
+Eldorado;teste_proxy;teste_proxy;;;Sistema;;;;;;;;;;
+Eldorado;prod.linha;Produção - Eldorado;;51 2123 09;Sistema;;;;;;;;;;
+Eldorado;litografia3;litografia3;;51 2123 0927;Sistema;;;;;;;;;;
+Eldorado;jose.viegas;José Romulo Stiborski Viegas;sesmt.eldorado@oderich.com.br;51 2123 0921;Sesmt;;;;;;;Mat: 173;;José ;José ,,José Romulo Stiborski Viegas - Conservas Oderich S/A,,sesmt.eldorado@oderich.com.br,,,,51 2123 0921,,,,,,,,,,,,,,,,,,Sesmt-Eldorado
+Eldorado;sesmt_eldorado;Jose Romulo;;51 2123 0913;Sesmt;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;Jose ;Jose ,,Jose Romulo - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,SesmtEldorado
+Eldorado;Diego.Pereira;Diego Cardoso Pereira;sesmt.eldorado@oderich.com.br;51 2123 0921;Sesmt;;;;;;;Mat: 110;;Diego ;Diego ,,Diego Cardoso Pereira - Conservas Oderich S/A,,sesmt.eldorado@oderich.com.br,,,,51 2123 0921,,,,,,,,,,,,,,,,,,Sesmt-Eldorado
+Eldorado;corte.eld;corte.eld;;51 2123 09;Sistema;;;;;;;;;;
+Eldorado;coletor7;coletor7;;51 2123 09;Sistema;;;;;;;Localização - ELD LOGISTICA;;;
+Eldorado;coletor12;Coletor 12;;51 2123 09;Sistema;;;;;;;Localização - ELD RESERVA;;;
+Eldorado;paulo.edson;Paulo Edson Salerno Machado;paulo.edson@oderich.com.br;51 2123 0937;Manutencao;;;;;;;Mat: 25;;Paulo ;Paulo ,,Paulo Edson Salerno Machado - Conservas Oderich S/A,,paulo.edson@oderich.com.br,,,,51 2123 0937,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;custos.eldorado;Joao Plinio De Sa Brito;custos.eldorado@oderich.com.br;51 2123 0923;Custos;;;;;;;Mat: 43;;Joao ;Joao ,,Joao Plinio De Sa Brito - Conservas Oderich S/A,,custos.eldorado@oderich.com.br,,,,51 2123 0923,,,,,,,,,,,,,,,,,,Custos-Eldorado
+Eldorado;rene;Rene Nicolau Souza Da Silva;almox1.eldorado@oderoch.com.br;51 2123 0930;Almoxarifado;;;;;;;Mat: 962;;Rene ;Rene ,,Rene Nicolau Souza Da Silva - Conservas Oderich S/A,,almox1.eldorado@oderoch.com.br,,,,51 2123 0930,,,,,,,,,,,,,,,,,,Almoxarifado-Eldorado
+Eldorado;priscila.rodrigues;Priscila Borgtte Da Silva Rodrigues;almox.eldorado@oderich.com.br;51 2123 0930;Almoxarifado;;;;;;;Mat: 1085;;Priscila ;Priscila ,,Priscila Borgtte Da Silva Rodrigues - Conservas Oderich S/A,,almox.eldorado@oderich.com.br,,,,51 2123 0930,,,,,,,,,,,,,,,,,,Almoxarifado-Eldorado
+Eldorado;marcos.galiao;Marcos Roberto Pereira Galiao;marcos.galiao@oderich.com.br;51 2123 0934;Custos;;;;;;;Mat: 802;;Marcos ;Marcos ,,Marcos Roberto Pereira Galiao - Conservas Oderich S/A,,marcos.galiao@oderich.com.br,,,,51 2123 0934,,,,,,,,,,,,,,,,,,Custos-Eldorado
+Eldorado;marcio;Marcio Santos Oliveira;pcp.eldorado@oderich.com.br;51 2123 0914;Custos;;;;;;;Mat: 92;;Marcio ;Marcio ,,Marcio Santos Oliveira - Conservas Oderich S/A,,pcp.eldorado@oderich.com.br,,,,51 2123 0914,,,,,,,,,,,,,,,,,,Custos-Eldorado
+Eldorado;marcos.silveira;JOSE ABIGAEL DA SILVA DIAS;;51 2123 0915;Custos;;;;;;;;;JOSE ;JOSE ,,JOSE ABIGAEL DA SILVA DIAS - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosEldorado
+Eldorado;Hiago.lague;Hiago Pires Lague;almox.eldorado@oderich.com.br;51 2123 0930;Almoxarifado;;;;;;;Mat: 13137;;Hiago ;Hiago ,,Hiago Pires Lague - Conservas Oderich S/A,,almox.eldorado@oderich.com.br,,,,51 2123 0930,,,,,,,,,,,,,,,,,,Almoxarifado-Eldorado
+Eldorado;prod.eld2;Tiago Alexandre dos Santos;tiago.alexandre@oderich.com.br;51 2123 0928;Administracao;;;;;;;Mat: 1294;;Tiago ;Tiago ,,Tiago Alexandre dos Santos - Conservas Oderich S/A,,tiago.alexandre@oderich.com.br,,,,51 2123 0928,,,,,,,,,,,,,,,,,,Administracao-Eldorado
+Eldorado;rosemar;Rosemar da Cruz Ribeio;rosemar@oderich.com.br;51 2123 0928;Administracao;;;;;;;Mat: 1363;;Rosemar ;Rosemar ,,Rosemar da Cruz Ribeio - Conservas Oderich S/A,,rosemar@oderich.com.br,,,,51 2123 0928,,,,,,,,,,,,,,,,,,Administracao-Eldorado
+Eldorado;maicon.cunha;Maicon Felipe Silva da Cunha;almox.eldorado@oderich.com.br;51 2123 0930;Almoxarifado;;;;;;;Mat: 760;;Maicon ;Maicon ,,Maicon Felipe Silva da Cunha - Conservas Oderich S/A,,almox.eldorado@oderich.com.br,,,,51 2123 0930,,,,,,,,,,,,,,,,,,Almoxarifado-Eldorado
+Eldorado;magali.lopes;Magali Peixoto Lopes;almox.eldorado@oderich.com.br;51 2123 0930;Almoxarifado;;;;;;;Mat: 1103;;Magali ;Magali ,,Magali Peixoto Lopes - Conservas Oderich S/A,,almox.eldorado@oderich.com.br,,,,51 2123 0930,,,,,,,,,,,,,,,,,,Almoxarifado-Eldorado
+Eldorado;laryssa;Laryssa Abreu Loba;almox.eldorado@oderich.com.br;51 2123 0930;Almoxarifado;;;;;;;Mat: 1163;;Laryssa ;Laryssa ,,Laryssa Abreu Loba - Conservas Oderich S/A,,almox.eldorado@oderich.com.br,,,,51 2123 0930,,,,,,,,,,,,,,,,,,Almoxarifado-Eldorado
+Eldorado;warzak;Edison Claudio Warzak;projetos2.eldorado@oderich.com.br;51 2123 0925;Manutencao;;;;;;;Mat: 260;;Edison ;Edison ,,Edison Claudio Warzak - Conservas Oderich S/A,,projetos2.eldorado@oderich.com.br,,,,51 2123 0925,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;Douglas.Freitas;Douglas de Moura Fretias;;51 2123 09;Manutencao;;;;;;;Mat: 837;;Douglas ;Douglas ,,Douglas de Moura Fretias - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,ManutencaoEldorado
+Eldorado;dimensional.eldorado;dimensional.eldorado;;51 2123 09;Manutencao;;;;;;;;;#VALOR!;#VALOR!
+Eldorado;Manoel;Manoel Ibirari Dos Santos;manoel@oderich.com.br;51 2123 09;Manutencao;;;;;;;Mat: 351;;Manoel ;Manoel ,,Manoel Ibirari Dos Santos - Conservas Oderich S/A,,manoel@oderich.com.br,,,,51 2123 09,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;lenon;Lenon Machado da Silva;lenon.silva@oderich.com.br;51 2123 0921;Manutencao;;False;True;13/06/2017 16:38;SCRIPT.BAT;27/07/2020 07:41;Mat: 1077;oderich.com.br/ODERICH/USUARIOS/Eldorado/Manutenção/Lenon Machado da Silva;Lenon ;Lenon ,,Lenon Machado da Silva - Conservas Oderich S/A,,lenon.silva@oderich.com.br,,,,51 2123 0921,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;eletrica.eldorado;Lenon Machado;eletrica.eldorado@oderich.com.br;51 2123 0945;Manutencao;;False;True;03/07/2014 15:55;SCRIPT.BAT;03/08/2020 07:55;;oderich.com.br/ODERICH/USUARIOS/Eldorado/Manutenção/Lenon Machado;Lenon ;Lenon ,,Lenon Machado - Conservas Oderich S/A,,eletrica.eldorado@oderich.com.br,,,,51 2123 0945,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;cristianb;Cristian Barufi Martins;transporte.eldorado@oderich.com.br;51 2123 0936;Expedicao;;False;True;04/12/2013 09:36;SCRIPT.BAT;03/08/2020 09:06;Mat: 139;oderich.com.br/ODERICH/USUARIOS/Eldorado/Expedição/Cristian Barufi Martins;Cristian ;Cristian ,,Cristian Barufi Martins - Conservas Oderich S/A,,transporte.eldorado@oderich.com.br,,,,51 2123 0936,,,,,,,,,,,,,,,,,,Expedicao-Eldorado
+Eldorado;sandro;Sandro Sant Ana;sandro@oderich.com.br;51 2123 0924;Diretoria;;;;;;;Mat: 688;;Sandro ;Sandro ,,Sandro Sant Ana - Conservas Oderich S/A,,sandro@oderich.com.br,,,,51 2123 0924,,,,,,,,,,,,,,,,,,Diretoria-Eldorado
+Eldorado;pcp.eldorado;Marcos Vinicius Silva Da Silveira;;51 2123 0914;Custos;;;;;;;Mat: 1293;;Marcos ;Marcos ,,Marcos Vinicius Silva Da Silveira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosEldorado
+Eldorado;celso.silva;Celso Henrique Cabeleira da Silva;eletrica.eldorado@oderich.com.br;51 2123 0921;Manutencao;;;;;;;Mat: 28;;Celso ;Celso ,,Celso Henrique Cabeleira da Silva - Conservas Oderich S/A,,eletrica.eldorado@oderich.com.br,,,,51 2123 0921,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Eldorado;usinagem.eldorado;Arthur Moreira Cezar;;51 2123 09;Manutencao;;;;;;;Mat: 889;;Arthur ;Arthur ,,Arthur Moreira Cezar - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,ManutencaoEldorado
+Eldorado;jose.lange;Adriano José Adriano Lange Santo;eletrica.eldorado@oderich.com.br;;Manutencao;;;;;;;Mat: 289;;Adriano ;Adriano ,,Adriano José Adriano Lange Santo - Conservas Oderich S/A,,eletrica.eldorado@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,Manutencao-Eldorado
+Industria;fernanda.pinheiro;Fernanda Pinheiro Silveira;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat 17137;;Fernanda ;Fernanda ,,Fernanda Pinheiro Silveira - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;fabio.cavalli;Fabio Cavalli;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 9446;;Fabio ;Fabio ,,Fabio Cavalli - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;marcia.teresinha;Marcia Teresinha Ferraz Antunes;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 12898;;Marcia ;Marcia ,,Marcia Teresinha Ferraz Antunes - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;magda.romero;Magda Rosane Romero da Silva;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 9337;;Magda ;Magda ,,Magda Rosane Romero da Silva - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;sarah.vogel;Sarah Vogel;sarah.vogel@oderich.com.br;51 2143 1273;RH;;;;;;;Mat: 18091;;Sarah ;Sarah ,,Sarah Vogel - Conservas Oderich S/A,,sarah.vogel@oderich.com.br,,,,51 2143 1273,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;dpcai;Samanta Andressa Lunges Walker1;dpcai@oderich.com.br;51 2143 12;RH;;False;True;24/08/2010 14:33;SCRIPT.BAT;25/05/2020 07:04;Mat: 17158;oderich.com.br/ODERICH/USUARIOS/ind-cai/Rh/Samanta Andressa Lunges Walker1;Samanta ;Samanta ,,Samanta Andressa Lunges Walker1 - Conservas Oderich S/A,,dpcai@oderich.com.br,,,,51 2143 12,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;ana.souza;Ana Carolina De Souza;;;Rotulagem;;;;;;;;;Ana ;Ana ,,Ana Carolina De Souza - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;tania.gallas;Tania Maria Gallas Benedetti;tania.gallas@oderich.com.br;51 2143 1273;RH;;;;;;;;;Tania ;Tania ,,Tania Maria Gallas Benedetti - Conservas Oderich S/A,,tania.gallas@oderich.com.br,,,,51 2143 1273,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;andrieli.oliveira;Andrieli de Oliveira;sesmt@oderich.com.br;51 2143 1259;Sesmt;;;;;;;Mat: 18468;;Andrieli ;Andrieli ,,Andrieli de Oliveira - Conservas Oderich S/A,,sesmt@oderich.com.br,,,,51 2143 1259,,,,,,,,,,,,,,,,,,Sesmt-Industria
+Industria;suzana;Suzana Maciel Coelho De July;suzana@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 11492;;Suzana ;Suzana ,,Suzana Maciel Coelho De July - Conservas Oderich S/A,,suzana@oderich.com.br,,,,51 2143 1255,,,,,,,,,,,,,,,,,,Rotulagem-Industria
+Industria;sesmt;Lucilene Aparecida Herber;sesmt@oderich.com.br;51 2143 1259;Sesmt;;;;;;;Mat: 18191;;Lucilene ;Lucilene ,,Lucilene Aparecida Herber - Conservas Oderich S/A,,sesmt@oderich.com.br,,,,51 2143 1259,,,,,,,,,,,,,,,,,,Sesmt-Industria
+Industria;lucas.alves;Lucas Flores Alves;lucasfa@gsaseg.com;51 2143 1259;Sesmt;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;Lucas ;Lucas ,,Lucas Flores Alves - Conservas Oderich S/A,,lucasfa@gsaseg.com,,,,51 2143 1259,,,,,,,,,,,,,,,,,,Sesmt-Industria
+Industria;remara.dietrich;Remara Raquel dos Santos Dietrich;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 13863;;Remara ;Remara ,,Remara Raquel dos Santos Dietrich - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;marisana;Marisana Priscila Faller;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 13417;;Marisana ;Marisana ,,Marisana Priscila Faller - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;sueli.zimmermann;Sueli Zimmermann;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 9717;;Sueli ;Sueli ,,Sueli Zimmermann - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;sabrina.ribeiro;Sabrina Macedo Ribeiro;a@oderich.com.br;51 2143 1255;Rotulagem;;;;;;;Mat: 15258;;Sabrina ;Sabrina ,,Sabrina Macedo Ribeiro - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,RotulagemIndustria
+Industria;marcosf;Marcos Eduardo;eduardof@oderich.com.br;51 2143 1245;Qualidade;;;;;;;Mat: 11257;;Marcos ;Marcos ,,Marcos Eduardo - Conservas Oderich S/A,,eduardof@oderich.com.br,,,,51 2143 1245,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;marcos.bach;Marcos Bach;ped.cai@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 17973;;Marcos ;Marcos ,,Marcos Bach - Conservas Oderich S/A,,ped.cai@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;dpto.tecnico;Mikaelle Griebler;departamento.tecnico@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 18298;;Mikaelle ;Mikaelle ,,Mikaelle Griebler - Conservas Oderich S/A,,departamento.tecnico@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;marcos.flores;Marcos Flores;silva@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 8661;;Marcos ;Marcos ,,Marcos Flores - Conservas Oderich S/A,,silva@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;leandro.mott;Leandro Saldanha Mott;a@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 13007;;Leandro ;Leandro ,,Leandro Saldanha Mott - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeIndustria
+Industria;jefersonm;Jeferson Moraes;jeferson@oderich.com.br;51 2143 1210;Qualidade;;;;;;;;;Jeferson ;Jeferson ,,Jeferson Moraes - Conservas Oderich S/A,,jeferson@oderich.com.br,,,,51 2143 1210,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;if;Marcia Branco Bastos;sif64@oderich.com.br;51 2143 1;Qualidade;;;;;;;Mat: 16914;;Marcia ;Marcia ,,Marcia Branco Bastos - Conservas Oderich S/A,,sif64@oderich.com.br,,,,51 2143 1,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;marcelow;Marcelo Wasen;a@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 9241;;Marcelo ;Marcelo ,,Marcelo Wasen - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeIndustria
+Industria;ambulatorio;Priscila Simas Bernardoni;ambulatorio@oderich.com.br;51 2143 1273;RH;;;;;;;Mat: 18185;;Priscila ;Priscila ,,Priscila Simas Bernardoni - Conservas Oderich S/A,,ambulatorio@oderich.com.br,,,,51 2143 1273,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;mickaela.silva;Mickaela da Silva;rh2@oderich.com.br;51 2143 1277;RH;;;;;;;Mat: 18496;;Mickaela ;Mickaela ,,Mickaela da Silva - Conservas Oderich S/A,,rh2@oderich.com.br,,,,51 2143 1277,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;samanta.walker;Samanta Andressa Lunges Walker;samanta.walker@oderich.com.br;;RH;;;;;;;Matr: 17158;;Samanta ;Samanta ,,Samanta Andressa Lunges Walker - Conservas Oderich S/A,,samanta.walker@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;rh;Sabrina Amanda Lunges Walker;rh2@oderich.com.br;51 2143 12;RH;;;;;;;Mat: 17892;;Sabrina ;Sabrina ,,Sabrina Amanda Lunges Walker - Conservas Oderich S/A,,rh2@oderich.com.br,,,,51 2143 12,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;Lucas.Somacal;Lucas Jacumel Somacal;lucas.somacal@oderich.com.br;51 2143 1279;Recebimento;;;;;;;Mat: 18389;;Lucas ;Lucas ,,Lucas Jacumel Somacal - Conservas Oderich S/A,,lucas.somacal@oderich.com.br,,,,51 2143 1279,,,,,,,,,,,,,,,,,,Recebimento-Industria
+Industria;ped.cai2;Natalia Ely Laufer;ped.cai2@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 18186;;Natalia ;Natalia ,,Natalia Ely Laufer - Conservas Oderich S/A,,ped.cai2@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;dpcai1;Jonathan Henrique Brinker;jonathan@oderich.com.br;51 2143 1249;RH;;False;True;26/10/2011 09:21;SCRIPT.BAT;27/07/2020 07:00;Mat: 15187;oderich.com.br/ODERICH/USUARIOS/ind-cai/Rh/Jonathan Henrique Brinker;Jonathan ;Jonathan ,,Jonathan Henrique Brinker - Conservas Oderich S/A,,jonathan@oderich.com.br,,,,51 2143 1249,,,,,,,,,,,,,,,,,,RH-Industria
+Industria;lucas.rotta;Lucas Rotta;lucas.rotta@oderich.com.br;51 2143 1279;Recebimento;;;;;;;Mat: 14713;;Lucas ;Lucas ,,Lucas Rotta - Conservas Oderich S/A,,lucas.rotta@oderich.com.br,,,,51 2143 1279,,,,,,,,,,,,,,,,,,Recebimento-Industria
+Industria;sesmt.noite;sesmt.noite;a@oderich.com.br;51 2143 1259;Sesmt;;;;;;;;;#VALOR!;#VALOR!
+Industria;tablet7;tablet7;a@oderich.com.br;51 2143 1;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+Industria;tablet6;Tablet6;a@oderich.com.br;51 2143 1;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+Industria;teste01;Teste;;;;;;;;;;;;#VALOR!;#VALOR!
+"CNF:cbd18dfc-1268-4ebc-8fcf-fe39e394f5b2""";;;Sistema;;;;;;;TESTE REALIZADO PARA VALIDAÇÃO DE USER;;;;;
+Industria;tafarel;Tafarel da Silveira Machry;a@oderich.com.br;51 2143 1;Sistema;;;;;;;Mat: 14051;;;
+Industria;tablet3;tablet3;a@oderich.com.br;51 2143 1;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+Industria;tablet2;tablet2;a@oderich.com.br;51 2143 1;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+Industria;tablet5;tablet5;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+Industria;tablet4;Tablet4;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+Industria;marcos.augusto;Marcos Augusto Trierweiler;marcos.augusto@oderich.com.br;51 2143 1202;Supervisor;;;;;;;Mat: 12972;;Marcos ;Marcos ,,Marcos Augusto Trierweiler - Conservas Oderich S/A,,marcos.augusto@oderich.com.br,,,,51 2143 1202,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;lucia-oderich;Lucia Oderich Moreira;lucia@oderich.com.br;51 2143 1283;Supervisor;;;;;;;Mat: 4311;;Lucia ;Lucia ,,Lucia Oderich Moreira - Conservas Oderich S/A,,lucia@oderich.com.br,,,,51 2143 1283,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;cofferri;Roque Cofferri;cofferi@oderich.com.br;51 2143 126;Supervisor;;;;;;;Mat: 8016;;Roque ;Roque ,,Roque Cofferri - Conservas Oderich S/A,,cofferi@oderich.com.br,,,,51 2143 126,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;maxbender;Max Isaias Bender;max@oderich.com.br;51 2143 1256;Supervisor;;;;;;;Mat: 16084;;Max ;Max ,,Max Isaias Bender - Conservas Oderich S/A,,max@oderich.com.br,,,,51 2143 1256,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;gilberto;Gilberto Silva Alves;gilberto@gsaseg.com;51 2143 1259;Supervisor;;;;;;;;;Gilberto ;Gilberto ,,Gilberto Silva Alves - Conservas Oderich S/A,,gilberto@gsaseg.com,,,,51 2143 1259,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;flaviana;Flaviana Trombetta Da Silva Pereira;flaviana@oderich.com.br;51 2143 1284;Supervisor;;;;;;;Mat: 10223;;Flaviana ;Flaviana ,,Flaviana Trombetta Da Silva Pereira - Conservas Oderich S/A,,flaviana@oderich.com.br,,,,51 2143 1284,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;leticia;Leticia Oderich Moreira Alarcon;leticia@oderich.com.br;51 2143 1251;Supervisor;;;;;;;Mat: 15753;;Leticia ;Leticia ,,Leticia Oderich Moreira Alarcon - Conservas Oderich S/A,,leticia@oderich.com.br,,,,51 2143 1251,,,,,,,,,,,,,,,,,,Supervisor-Industria
+Industria;jose.eduardo;JOSE EDUARDO VAN KURINGEN;jevk1964@gmail.com;51 2143 1237;Supervisor;;;;;;;;;JOSE ;JOSE ,,JOSE EDUARDO VAN KURINGEN - Conservas Oderich S/A,jevk1964@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,SupervisorIndustria
+Industria;coletor4;coletor4;;;Sistema;;;;;;;Localização - PCP BACKUP;;;
+Industria;coletor3;coletor3;;;Sistema;;;;;;;Localização - IND TEMPEROS;;;
+Industria;coletor6;coletor6;;;Sistema;;;;;;;Localização - IND RECEBIMENTO;;;
+Industria;coletor5;coletor5;;;Sistema;;;;;;;Localização - IND DESCONGELAMENTO;;;
+Industria;ind_sif3;Eduardo Hunning;if64@oderich.com.br;51 2143 1212;SIF;;;;;;;Mat: 17718;;Eduardo ;Eduardo ,,Eduardo Hunning - Conservas Oderich S/A,,if64@oderich.com.br,,,,51 2143 1212,,,,,,,,,,,,,,,,,,SIF-Industria
+Industria;sif;Christian Daniel Ribeiro Da Silva;if64@oderich.com.br;51 2143 1212;SIF;;;;;;;Mat: 11141;;Christian ;Christian ,,Christian Daniel Ribeiro Da Silva - Conservas Oderich S/A,,if64@oderich.com.br,,,,51 2143 1212,,,,,,,,,,,,,,,,,,SIF-Industria
+Industria;coletor2;coletor2;;;Sistema;;;;;;;Localização - IND CAMARA FRIA;;;
+Industria;coletor1;coletor1;;;Sistema;;;;;;;Localização - IND ROTULAGEM;;;
+Industria;recebimento;Recebimento - Camara Fria;a@oderich.com.br;51 2143 1;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+Industria;portaria.industria;Portaria Indústria;;51 2143 1241;Sistema;;;;;;;;;;
+Industria;tablet1;tablet1;a@oderich.com.br;51 2143 1;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+Industria;rotulagem;rotulagem;;51 2143 1;Sistema;;;;;;;;;;
+Industria;expedicao.cai;Marisana Priscila Faller;expedicao.cai@oderich.com.br;51 2143 147;Sistema;;;;;;;Mat: 13417;;;
+Industria;conserva4;Conserva4;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+Industria;note_manut;note_manut;a@oderich.com.br;51 2143 1;Sistema;;;;;;;Conta para acesso ao note simon;;;
+Industria;salademaquinas;Milton Henz;henzmilton@gmail.com;51 2143 1204;Sistema;;;;;;;Milton Henz;;;
+Industria;daniela.beck;Daniela Flores Beck;daniela@oderich.com.br;51 2143 1202;Custos;;;;;;;Mat: 11409;;Daniela ;Daniela ,,Daniela Flores Beck - Conservas Oderich S/A,,daniela@oderich.com.br,,,,51 2143 1202,,,,,,,,,,,,,,,,,,Custos-Industria
+Industria;elisabete.ledur;Elisabete Ledur;elisabete@oderich.com.br;51 2143 1242;CAO;;False;True;04/12/2018 08:16;C:\SCRIPT\Arquivos.bat;06/08/2020 08:41;Mat: 13003;oderich.com.br/ODERICH/USUARIOS/ind-cai/Cao/Elisabete Ledur;Elisabete ;Elisabete ,,Elisabete Ledur - Conservas Oderich S/A,,elisabete@oderich.com.br,,,,51 2143 1242,,,,,,,,,,,,,,,,,,CAO-Industria
+Industria;leonardo;Leonardo Luiz da Silva;leonardo@oderich.com.br;51 2143 1233;Custos;;;;;;;Mat: 15889;;Leonardo ;Leonardo ,,Leonardo Luiz da Silva - Conservas Oderich S/A,,leonardo@oderich.com.br,,,,51 2143 1233,,,,,,,,,,,,,,,,,,Custos-Industria
+Industria;elisabete.fernandes;Elisabete Fernandes Da Silva;;;Custos;;;;;;;;;Elisabete ;Elisabete ,,Elisabete Fernandes Da Silva - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosIndustria
+Industria;teste.linux;Teste Linux;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;;;Teste ;Teste ,,Teste Linux - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;soneide.bleil;Soneide Muniz Bleil;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 12586;;Soneide ;Soneide ,,Soneide Muniz Bleil - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;dioneia;Dioneia Martinelli;dioneia@oderich.com.br;51 2143 1208;CAO;;False;True;23/05/2002 17:05;C:\SCRIPT\Arquivos.bat;27/07/2020 08:23;Mat: 7454;oderich.com.br/ODERICH/USUARIOS/ind-cai/Cao/Dioneia Martinelli;Dioneia ;Dioneia ,,Dioneia Martinelli - Conservas Oderich S/A,,dioneia@oderich.com.br,,,,51 2143 1208,,,,,,,,,,,,,,,,,,CAO-Industria
+Industria;angelak;Angela Luisa Koch Oderich;angela@oderich.com.br;51 2143 1239;CAO;;;;;;;Mat: 12195;;Angela ;Angela ,,Angela Luisa Koch Oderich - Conservas Oderich S/A,,angela@oderich.com.br,,,,51 2143 1239,,,,,,,,,,,,,,,,,,CAO-Industria
+Industria;sga;Bruna Biolo;sga@oderich.com.br;51 2143 1269;Gestao Ambiental;;;;;;;Mat: 17157;;Bruna ;Bruna ,,Bruna Biolo - Conservas Oderich S/A,,sga@oderich.com.br,,,,51 2143 1269,,,,,,,,,,,,,,,,,,Gestao Ambiental-Industria
+Industria;claudio;Claudio Oderich;claudio@oderich.com.br;51 2143 1243;Diretoria;;;;;;;Mat: 2;;Claudio ;Claudio ,,Claudio Oderich - Conservas Oderich S/A,,claudio@oderich.com.br,,,,51 2143 1243,,,,,,,,,,,,,,,,,,Diretoria-Industria
+Industria;tiagop;Tiago Pianesso;tiago.pianesso@oderich.com.br;51 2143 1269;Gestao Ambiental;;;;;;;Mat: 12201;;Tiago ;Tiago ,,Tiago Pianesso - Conservas Oderich S/A,,tiago.pianesso@oderich.com.br,,,,51 2143 1269,,,,,,,,,,,,,,,,,,Gestao Ambiental-Industria
+Industria;ambiental;Renata Da Rosa Da Silva Bittencourt;gestaoambiental1@oderich.com.br;51 2143 1269;Gestao Ambiental;;;;;;;Mat: 13794;;Renata ;Renata ,,Renata Da Rosa Da Silva Bittencourt - Conservas Oderich S/A,,gestaoambiental1@oderich.com.br,,,,51 2143 1269,,,,,,,,,,,,,,,,,,Gestao Ambiental-Industria
+Industria;neiva;Neiva Maria Souza;neiva@oderich.com.br;51 2143 1233;Custos;;False;True;27/04/2006 10:15;SCRIPT.BAT;28/07/2020 08:15;Mat: 8083;oderich.com.br/ODERICH/USUARIOS/ind-cai/Custos/Neiva Maria Souza;Neiva ;Neiva ,,Neiva Maria Souza - Conservas Oderich S/A,,neiva@oderich.com.br,,,,51 2143 1233,,,,,,,,,,,,,,,,,,Custos-Industria
+Industria;marleneh;Marlene Hofmann;marleneh@oderich.com.br;51 2143 1286;Custos;;;;;;;Mat: 17933;;Marlene ;Marlene ,,Marlene Hofmann - Conservas Oderich S/A,,marleneh@oderich.com.br,,,,51 2143 1286,,,,,,,,,,,,,,,,,,Custos-Industria
+Industria;vera.oliveira;Vera Maria de oliveira;;;Custos;;;;;;;Matr: 12757;;Vera ;Vera ,,Vera Maria de oliveira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosIndustria
+Industria;custos;Tatiana Becker Flores;custos@oderich.com.br;51 2143 1;Custos;;;;;;;Mat: 11019;;Tatiana ;Tatiana ,,Tatiana Becker Flores - Conservas Oderich S/A,,custos@oderich.com.br,,,,51 2143 1,,,,,,,,,,,,,,,,,,Custos-Industria
+Industria;balcao;balcao;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Balcao Almoxarifado Oderich Cai 2;;#VALOR!;#VALOR!
+Industria;andre.barbosa;Andre De Oliveira Barbosa;andre.barbosa@oderich.com.br;51 2143 1254;Almoxarifado;Supervisor;;;;;;Mat: 17765;;Andre ;Andre ,,Andre De Oliveira Barbosa - Conservas Oderich S/A,,andre.barbosa@oderich.com.br,,,,51 2143 1254,,,,,,,,,,,,,,,,,,Almoxarifado-Industria
+Industria;camilo.antunes;Camilo De Almeida Antunes;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 13370;;Camilo ;Camilo ,,Camilo De Almeida Antunes - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;balcao1;Balcao Almoxarifado Oderich Cai 1;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;;;Balcao ;Balcao ,,Balcao Almoxarifado Oderich Cai 1 - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;almoxarifado.cai;Almoxarifado Cai;almoxarifado.cai@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;Almoxarifado ;Almoxarifado ,,Almoxarifado Cai - Conservas Oderich S/A,,almoxarifado.cai@oderich.com.br,,,,51 2143 1254,,,,,,,,,,,,,,,,,,Almoxarifado-Industria
+Industria;aline.dutra;Aline Viviane Dutra Nicolau;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 16592;;Aline ;Aline ,,Aline Viviane Dutra Nicolau - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;almox.tempero;Almoxarifado Temperos;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;;;Almoxarifado ;Almoxarifado ,,Almoxarifado Temperos - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;almox.receb;Almoxarifado Recebimento;almox1.cai@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;;;Almoxarifado ;Almoxarifado ,,Almoxarifado Recebimento - Conservas Oderich S/A,,almox1.cai@oderich.com.br,,,,51 2143 1254,,,,,,,,,,,,,,,,,,Almoxarifado-Industria
+Industria;luiz.kayser;Luiz Alexandre Kayser;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 18277;;Luiz ;Luiz ,,Luiz Alexandre Kayser - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;leticia.kruger;Leticia De Lima Kruger Da Silva;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 15312;;Leticia ;Leticia ,,Leticia De Lima Kruger Da Silva - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;paulo.becker;Paulo Vitor Becker;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 15554;;Paulo ;Paulo ,,Paulo Vitor Becker - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;nair.ledur;Nair Teresinha Ledur;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 8367;;Nair ;Nair ,,Nair Teresinha Ledur - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;eric.silva;Eric Roger Leites Silva;;;Almoxarifado;;;;;;;Matr: 11411;;Eric ;Eric ,,Eric Roger Leites Silva - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;cristiano.fontes;Cristiano Caetano Fontes;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 12277;;Cristiano ;Cristiano ,,Cristiano Caetano Fontes - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;henrique.selzlein;Henrique George Selzlein;;;Almoxarifado;;;;;;;Matr: 13845;;Henrique ;Henrique ,,Henrique George Selzlein - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;felipe.paula;Felipe Alex De Paula;a@oderich.com.br;51 2143 1254;Almoxarifado;;;;;;;Mat: 18262;;Felipe ;Felipe ,,Felipe Alex De Paula - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoIndustria
+Industria;heitor;Heitor J. C. Mendina;gmail;51 2143 1211;IF;Supervisor;;;;;;USR -> Rede Local -> Limitado -> Senha:;;Heitor ;Heitor ,,Heitor J. C. Mendina - Conservas Oderich S/A,gmail,,,,,,,,,,,,,,,,,,,,,,,,,IFIndustria
+Industria;manut2;Nestor Kaspari Junior;manutencao.cai@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Matr: 18141;;Nestor ;Nestor ,,Nestor Kaspari Junior - Conservas Oderich S/A,,manutencao.cai@oderich.com.br,,,,51 2143 1253,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;simon;Luis Carlos Simon;simon.nomislc@gmail.com;51 2143 1253;Manutencao;;;;;;;;;Luis ;Luis ,,Luis Carlos Simon - Conservas Oderich S/A,,simon.nomislc@gmail.com,,,,51 2143 1253,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;lab.ind;Bernardo Werner;laboratorio@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 16984;;Bernardo ;Bernardo ,,Bernardo Werner - Conservas Oderich S/A,,laboratorio@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;rodinei;Rodinei Nazario;rodinei@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Mat: 17028;;Rodinei ;Rodinei ,,Rodinei Nazario - Conservas Oderich S/A,,rodinei@oderich.com.br,,,,51 2143 1253,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;manut3;Daniel Hillebrand Savino;savino@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Matr: 17491;;Daniel ;Daniel ,,Daniel Hillebrand Savino - Conservas Oderich S/A,,savino@oderich.com.br,,,,51 2143 1253,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;appel;Daniel Appel;appel@oderich.com.br;51 2143 1281;Manutencao;Supervisor;;;;;;Mat: 7407;;Daniel ;Daniel ,,Daniel Appel - Conservas Oderich S/A,,appel@oderich.com.br,,,,51 2143 1281,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;carol;Karon Silva;ksilva@oderich.com.br;51 2143 1281;Manutencao;;;;;;;Mat: 8647;;Karon ;Karon ,,Karon Silva - Conservas Oderich S/A,,ksilva@oderich.com.br,,,,51 2143 1281,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;fernando.soares;Fernando Dutra Soares;fernando.soares@oderich.com.br;51 2143 1281;Manutencao;;;;;;;Matr: 18491;;Fernando ;Fernando ,,Fernando Dutra Soares - Conservas Oderich S/A,,fernando.soares@oderich.com.br,,,,51 2143 1281,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;gabriela;Gabriela Raimann;gabriela@oderich.com.br;51 2143 1217;Qualidade;;;;;;;Mat: 15039;;Gabriela ;Gabriela ,,Gabriela Raimann - Conservas Oderich S/A,,gabriela@oderich.com.br,,,,51 2143 1217,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;fernanda.benedetti;Fernanda Gallas Benedetti;qualidade@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 18055;;Fernanda ;Fernanda ,,Fernanda Gallas Benedetti - Conservas Oderich S/A,,qualidade@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;haitham;haitham;haitham@oderich.com.br;51 2143 1213;Qualidade;;False;True;17/07/2013 14:09;SCRIPT.BAT;31/07/2020 08:30;;oderich.com.br/ODERICH/USUARIOS/ind-cai/Qualidade/haitham;#VALOR!;#VALOR!
+Industria;ped2;Gesele Seitenfus;ped.embalagens@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Matr: 14425;;Gesele ;Gesele ,,Gesele Seitenfus - Conservas Oderich S/A,,ped.embalagens@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;depto;Departamento Tecnico;a@oderich.com.br;51 2143 1252;Qualidade;;;;;;;;;Departamento ;Departamento ,,Departamento Tecnico - Conservas Oderich S/A,a@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeIndustria
+Industria;cassiomar;Cassiomar Dewes;auditor3@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 3849;;Cassiomar ;Cassiomar ,,Cassiomar Dewes - Conservas Oderich S/A,,auditor3@oderich.com.br,,,,51 2143 1252,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;diego.vieira;Diego Vieira;diego.vieira@oderich.com.br;51 2143 1245;Qualidade;;;;;;;;;Diego ;Diego ,,Diego Vieira - Conservas Oderich S/A,,diego.vieira@oderich.com.br,,,,51 2143 1245,,,,,,,,,,,,,,,,,,Qualidade-Industria
+Industria;diana.schroer;Diana Fernanda Schroer;;51 2143 1284;Qualidade;;;;;;;Matr: 18290;;Diana ;Diana ,,Diana Fernanda Schroer - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeIndustria
+Industria;daniela.vaqueiro;Daniela Vaqueiro Rodrigues;;51 2143 1246;Maionese;;;;;;;Mat: 10025;;Daniela ;Daniela ,,Daniela Vaqueiro Rodrigues - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;cristina.melo;Cristina Louzada De Melo;;;Maionese;;;;;;;;;Cristina ;Cristina ,,Cristina Louzada De Melo - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;eroni.lemes;Eroni Dispissel Lemes;;51 2143 1246;Maionese;;;;;;;Mat: 12733;;Eroni ;Eroni ,,Eroni Dispissel Lemes - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;elisete.pereira;Elisete Pereira da Silva;;51 2143 1246;Maionese;;;;;;;Mat: 11207;;Elisete ;Elisete ,,Elisete Pereira da Silva - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;aliny.pinto;Aliny Pinto de Oliveira;;51 2143 1246;Maionese;;;;;;;Mat: 18022;;Aliny ;Aliny ,,Aliny Pinto de Oliveira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;alessandra.pinheiro;Alessandra Pinheiro dos Santos;;51 2143 1246;Maionese;;;;;;;Mat: 12624;;Alessandra ;Alessandra ,,Alessandra Pinheiro dos Santos - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;cristina.kussler;Cristina de Souza Kussler;;51 2143 1246;Maionese;;;;;;;Mat: 12959;;Cristina ;Cristina ,,Cristina de Souza Kussler - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;cristina.batista;Cristina Batista da Silva;;51 2143 1246;Maionese;;;;;;;Mat: 14137;;Cristina ;Cristina ,,Cristina Batista da Silva - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;tatiane.quevedo;Tatiane dos Santos Quevedo da Costa;;51 2143 1246;Maionese;;;;;;;Mat: 12774;;Tatiane ;Tatiane ,,Tatiane dos Santos Quevedo da Costa - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;renilda.batista;Renilda Fatima Batista;;51 2143 1246;Maionese;;;;;;;Mat: 9442;;Renilda ;Renilda ,,Renilda Fatima Batista - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;carson;Carson Roger Clemente Da Silva;ksilva@oderich.com.br;51 2143 1253;Manutencao;Supervisor;;;;;;Mat: 8656;;Carson ;Carson ,,Carson Roger Clemente Da Silva - Conservas Oderich S/A,,ksilva@oderich.com.br,,,,51 2143 1253,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;manut1;Bruno Garcia Padilha;bruno@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Matr: 11402;;Bruno ;Bruno ,,Bruno Garcia Padilha - Conservas Oderich S/A,,bruno@oderich.com.br,,,,51 2143 1253,,,,,,,,,,,,,,,,,,Manutencao-Industria
+Industria;julieta.thome;Julieta Thome;;51 2143 1246;Maionese;;;;;;;Mat: 8097;;Julieta ;Julieta ,,Julieta Thome - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;fabiano.preilipper;Fabiano Preilipper;;51 2143 1246;Maionese;;;;;;;Mat: 15830;;Fabiano ;Fabiano ,,Fabiano Preilipper - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Industria;maionese;maionese;leonardo@oderich.com.br;51 2143 1246;Maionese;;;;;;;;;#VALOR!;#VALOR!
+Industria;leila.correia;Leila Olga Pompeo Correia;;51 2143 1246;Maionese;;;;;;;Mat: 17035;;Leila ;Leila ,,Leila Olga Pompeo Correia - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,MaioneseIndustria
+Orizona;jakson.pereira;Jakson Abrao Pereira Marques;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2271;;Jakson ;Jakson ,,Jakson Abrao Pereira Marques - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;jane.santos;Jane Maria dos Santos;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2099;;Jane ;Jane ,,Jane Maria dos Santos - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;ozn-qualidade;Igor Rodames De Oliveira;;;;;;;;;;;;Igor ;Igor ,,Igor Rodames De Oliveira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,Orizona
+"CNF:9c1ad030-2dd0-4e1c-8d80-be0c60df36eb""";igor@oderich.com.br;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 1689;;;;;
+Orizona;Jaine.Castro;Jaine Martins de Castro;qualidade.orizona@oderich.com.br;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2464;;Jaine ;Jaine ,,Jaine Martins de Castro - Conservas Oderich S/A,,qualidade.orizona@oderich.com.br,,,,64 3474 3400 Ramal 417,,,,,,,,,,,,,,,,,,Qualidade-Orizona
+Orizona;jose.vieira;Jose Henrique De Sousa Vieira;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Matr: 2950;;Jose ;Jose ,,Jose Henrique De Sousa Vieira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;naira.alves;Naira Cristina Alves;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2368;;Naira ;Naira ,,Naira Cristina Alves - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;patricia.piccinin;Patricia Christina Piccinin;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Matr: 2929;;Patricia ;Patricia ,,Patricia Christina Piccinin - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;lorena.soares;Lorena Alves Soares;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2020;;Lorena ;Lorena ,,Lorena Alves Soares - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;luiz.martins;Luiz Fernando Goncalves Machado Martins;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Matr: 2809;;Luiz ;Luiz ,,Luiz Fernando Goncalves Machado Martins - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;ozn-laboratorio;Adriane Cristina Pereira 1;laboratorio.orizona@oderich.com.br;64 3474 3400 Ramal 444;Qualidade;;;;;;;Mat: 2385;;Adriane ;Adriane ,,Adriane Cristina Pereira 1 - Conservas Oderich S/A,,laboratorio.orizona@oderich.com.br,,,,64 3474 3400 Ramal 444,,,,,,,,,,,,,,,,,,Qualidade-Orizona
+Orizona;alice;Alice Maria de Oliveira;auditoria.orizona@oderich.com.br;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 946;;Alice ;Alice ,,Alice Maria de Oliveira - Conservas Oderich S/A,,auditoria.orizona@oderich.com.br,,,,64 3474 3400 Ramal 417,,,,,,,,,,,,,,,,,,Qualidade-Orizona
+Orizona;paulo.valverdes;Paulo da Cruz Valverdes;paulo.valverdes@oderich.com.br;64 3474 3400 Ramal 424;Manutencao;;;;;;;Mat: 1366;;Paulo ;Paulo ,,Paulo da Cruz Valverdes - Conservas Oderich S/A,,paulo.valverdes@oderich.com.br,,,,64 3474 3400 Ramal 424,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;adriane.pereira;Adriane Cristina Pereira;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2385;;Adriane ;Adriane ,,Adriane Cristina Pereira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;cleide.soares;Cleide Soares Carlos;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2209;;Cleide ;Cleide ,,Cleide Soares Carlos - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;fernando.cunha;Fernando Vieira da Cunha;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2522;;Fernando ;Fernando ,,Fernando Vieira da Cunha - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;igor.rodames;Igor Rodames De Oliveira;igor@oderich.com.br;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 1689;;Igor ;Igor ,,Igor Rodames De Oliveira - Conservas Oderich S/A,,igor@oderich.com.br,,,,64 3474 3400 Ramal 417,,,,,,,,,,,,,,,,,,Qualidade-Orizona
+Orizona;dinara.machado;Dinara Cristina Pereira Machado;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2669;;Dinara ;Dinara ,,Dinara Cristina Pereira Machado - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;edirce.cunha;Edirce Vieira da Cunha;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 68;;Edirce ;Edirce ,,Edirce Vieira da Cunha - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;william.siqueira;William Siqueira Almeida;engenharia.orizona@oderich.com.br;64 3474 3400 Ramal 423;Sesmt;;;;;;;Mat: 2322;;William ;William ,,William Siqueira Almeida - Conservas Oderich S/A,,engenharia.orizona@oderich.com.br,,,,64 3474 3400 Ramal 423,,,,,,,,,,,,,,,,,,Sesmt-Orizona
+Orizona;ozn-agricola;2Amim Cozac Filho;amim@oderich.com.br;64 3474 3400 Ramal 405;Sistema;;;;;;;Mat: 263;;;
+Orizona;reginaldo.duarte;Reginaldo Duarte Cecotte;reginaldo.cecotte@oderich.com.br;64 3474 3400 Ramal 406;Sesmt;;;;;;;Mat: 303;;Reginaldo ;Reginaldo ,,Reginaldo Duarte Cecotte - Conservas Oderich S/A,,reginaldo.cecotte@oderich.com.br,,,,64 3474 3400 Ramal 406,,,,,,,,,,,,,,,,,,Sesmt-Orizona
+Orizona;ozn-sesmt;sReginaldo Duarte Cecotte;sesmtorizona@oderich.com.br;64 3474 3400 Ramal 406;Sesmt;;;;;;;Mat: 303;;sReginaldo ;sReginaldo ,,sReginaldo Duarte Cecotte - Conservas Oderich S/A,,sesmtorizona@oderich.com.br,,,,64 3474 3400 Ramal 406,,,,,,,,,,,,,,,,,,Sesmt-Orizona
+Orizona;amim.cozac;Amim Cozac Filho;amim@oderich.com.br;64 3474 3400 Ramal 405;Sistema;;;;;;;Mat: 2587;;;
+Orizona;ozn-portaria;ozn-portaria;portaria.orizona@oderich.com.br;64 3474 3400 Ramal 413;Sistema;;;;;;;;;;
+Orizona;paulo.giordano;Paulo Giordano;paulo.giordano@oderich.com.br;64 3474 3400 Ramal 405;Sistema;;;;;;;Mat: 2708;;;
+Orizona;ozn-producao;Magnus Schoninger Oliveira;magnus@oderich.com.br;64 3474 3400 Ramal 418;Sistema;;;;;;;;;;
+Orizona;revisao.orizona;Marcus Daniel de Oliveira Gonsalves;revisao.orizona@oderich.com.br;64 3474 3400 Ramal 442;Sistema;;;;;;;;;;
+Orizona;ozn-qualidade2;Sirlene Cristina Marques Gomes;sgq.orizona@oderich.com.br;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2483;;Sirlene ;Sirlene ,,Sirlene Cristina Marques Gomes - Conservas Oderich S/A,,sgq.orizona@oderich.com.br,,,,64 3474 3400 Ramal 417,,,,,,,,,,,,,,,,,,Qualidade-Orizona
+Orizona;ozn-rh;2Deise Mendes Da Silva;dp.orizona@oderich.com.br;64 3474 3400 Ramal 441;RH;;False;True;24/06/2013 15:54;SCRIPT-OZN.bat;22/04/2020 14:09;;oderich.com.br/ODERICH/USUARIOS/Orizona/Rh/2Deise Mendes Da Silva;2Deise ;2Deise ,,2Deise Mendes Da Silva - Conservas Oderich S/A,,dp.orizona@oderich.com.br,,,,64 3474 3400 Ramal 441,,,,,,,,,,,,,,,,,,RH-Orizona
+Orizona;renata.araujo;Renata Candido de Araujo;;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2689;;Renata ;Renata ,,Renata Candido de Araujo - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadeOrizona
+Orizona;Sirlene.Gomes;Sirlene Cristina Gomes;sgq.orizona@oderich.com.br;64 3474 3400 Ramal 417;Qualidade;;;;;;;Mat: 2483;;Sirlene ;Sirlene ,,Sirlene Cristina Gomes - Conservas Oderich S/A,,sgq.orizona@oderich.com.br,,,,64 3474 3400 Ramal 417,,,,,,,,,,,,,,,,,,Qualidade-Orizona
+Orizona;oliveira;Daniela Maria de Oliveira e Silva;rh.orizona@oderich.com.br;64 3474 3400 Ramal 441;RH;;;;;;;Mat: 18;;Daniela ;Daniela ,,Daniela Maria de Oliveira e Silva - Conservas Oderich S/A,,rh.orizona@oderich.com.br,,,,64 3474 3400 Ramal 441,,,,,,,,,,,,,,,,,,RH-Orizona
+Orizona;lucelia.pereira;Lucelia Pereira da Silva;lucelia.pereira@oderich.com.br;64 3474 3400 Ramal 414;RH;;;;;;;Mat: 2922;;Lucelia ;Lucelia ,,Lucelia Pereira da Silva - Conservas Oderich S/A,,lucelia.pereira@oderich.com.br,,,,64 3474 3400 Ramal 414,,,,,,,,,,,,,,,,,,RH-Orizona
+Orizona;luzia;Luzia De Jesus Vieira Peres;dp.orizona@oderich.com.br;64 3474 3400 Ramal 414;RH;;;;;;;Mat: 208;;Luzia ;Luzia ,,Luzia De Jesus Vieira Peres - Conservas Oderich S/A,,dp.orizona@oderich.com.br,,,,64 3474 3400 Ramal 414,,,,,,,,,,,,,,,,,,RH-Orizona
+Orizona;deise.mendes;Deise Mendes Da Silva;deise.mendes@oderich.com.br;64 3474 3400 Ramal 414;RH;;;;;;;Mat: 2648;;Deise ;Deise ,,Deise Mendes Da Silva - Conservas Oderich S/A,,deise.mendes@oderich.com.br,,,,64 3474 3400 Ramal 414,,,,,,,,,,,,,,,,,,RH-Orizona
+Orizona;ozn-dp;Juliana Aparecida Pereira De Sousa;dp.orizona2@oderich.com.br;64 3474 3400 Ramal 414;RH;;;;;;;Mat: 2577;;Juliana ;Juliana ,,Juliana Aparecida Pereira De Sousa - Conservas Oderich S/A,,dp.orizona2@oderich.com.br,,,,64 3474 3400 Ramal 414,,,,,,,,,,,,,,,,,,RH-Orizona
+Orizona;antonio.fernandes;Antonio Fernandes Alves Sant;;64 3474 3400 Ramal 420;Custos;;;;;;;Mat: 2233;;Antonio ;Antonio ,,Antonio Fernandes Alves Sant - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosOrizona
+Orizona;elilto.francisco;Elilto Francisco de Paula;;64 3474 3400 Ramal 420;Custos;;;;;;;Mat: 30;;Elilto ;Elilto ,,Elilto Francisco de Paula - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosOrizona
+Orizona;thiago.kennedy;Thiago Kennedy Campos;thiago.kennedy@oderich.com.br;64 3474 3400 Ramal 415;Almoxarifado;;;;;;;Mat: 513;;Thiago ;Thiago ,,Thiago Kennedy Campos - Conservas Oderich S/A,,thiago.kennedy@oderich.com.br,,,,64 3474 3400 Ramal 415,,,,,,,,,,,,,,,,,,Almoxarifado-Orizona
+Orizona;aparecida.fernandes;Aparecida Luiz Fernandes;o@oderich.com.br;64 3474 3400 Ramal 415;Almozarifado;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado ->;;Aparecida ;Aparecida ,,Aparecida Luiz Fernandes - Conservas Oderich S/A,o@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,,,,AlmozarifadoOrizona
+Orizona;fabio.rosa;Fabio Rosa Ferreira;;64 3474 3400 Ramal 420;Custos;;;;;;;Mat: 1331;;Fabio ;Fabio ,,Fabio Rosa Ferreira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosOrizona
+Orizona;juliany.freitas;Juliany Freitas Caetano;;64 3474 3400 Ramal 419;Custos;;;;;;;Mat: 2904;;Juliany ;Juliany ,,Juliany Freitas Caetano - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosOrizona
+Orizona;ozn.pcp;Keila Maria Lucio;apontamentos@oderich.com.br;64 3474 3400 Ramal 435;Custos;;;;;;;Mat: 2054;;Keila ;Keila ,,Keila Maria Lucio - Conservas Oderich S/A,,apontamentos@oderich.com.br,,,,64 3474 3400 Ramal 435,,,,,,,,,,,,,,,,,,Custos-Orizona
+Orizona;gislene.alves;Gislene Alves Ferreira;;64 3474 3400 Ramal 420;Custos;;;;;;;Mat: 1327;;Gislene ;Gislene ,,Gislene Alves Ferreira - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosOrizona
+Orizona;gleibson;Gleibson Carrijo Fernandes;producao.orizona@oderich.com.br;64 3474 3400 Ramal 419;Custos;;False;True;27/08/2015 14:08;SCRIPT-OZN.bat;05/08/2020 13:38;Mat: 2076;oderich.com.br/ODERICH/USUARIOS/Orizona/Custos/Gleibson Carrijo Fernandes;Gleibson ;Gleibson ,,Gleibson Carrijo Fernandes - Conservas Oderich S/A,,producao.orizona@oderich.com.br,,,,64 3474 3400 Ramal 419,,,,,,,,,,,,,,,,,,Custos-Orizona
+Orizona;Lucas.Lima;Lucas Vieira de Lima;;64 3474 3400 Ramal 415;Almoxarifado;;;;;;;Mat: 2671;;Lucas ;Lucas ,,Lucas Vieira de Lima - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoOrizona
+Orizona;manoelt;Manoel Lourenço Tavares;almoxarifado.orizona@oderich.com.br;64 3474 3400 Ramal 415;Almoxarifado;;;;;;;Mat: 188;;Manoel ;Manoel ,,Manoel Lourenço Tavares - Conservas Oderich S/A,,almoxarifado.orizona@oderich.com.br,,,,64 3474 3400 Ramal 415,,,,,,,,,,,,,,,,,,Almoxarifado-Orizona
+Orizona;nara;Nara Rubia da Silva Mendes;nara@oderich.com.br;64 3474 3400 Ramal 429;Administracao;;;;;;;Mat: 2094;;Nara ;Nara ,,Nara Rubia da Silva Mendes - Conservas Oderich S/A,,nara@oderich.com.br,,,,64 3474 3400 Ramal 429,,,,,,,,,,,,,,,,,,Administracao-Orizona
+Orizona;sousa;Rodrigo Sousa Silva;silagem@oderich.com.br;64 3474 3400 Ramal 430;Administracao;;False;True;03/07/2006 08:28;SCRIPT-OZN.bat;03/08/2020 10:22;Mat: 9;oderich.com.br/ODERICH/USUARIOS/Orizona/Silagem/Rodrigo Sousa Silva;Rodrigo ;Rodrigo ,,Rodrigo Sousa Silva - Conservas Oderich S/A,,silagem@oderich.com.br,,,,64 3474 3400 Ramal 430,,,,,,,,,,,,,,,,,,Administracao-Orizona
+Orizona;marco.silva;Marco Antonio Luis e Silva;almoxarifado2.orizona@oderich.com.br;64 3474 3400 Ramal 432;Almoxarifado;;;;;;;Mat: 1806;;Marco ;Marco ,,Marco Antonio Luis e Silva - Conservas Oderich S/A,,almoxarifado2.orizona@oderich.com.br,,,,64 3474 3400 Ramal 432,,,,,,,,,,,,,,,,,,Almoxarifado-Orizona
+Orizona;rafael.lima;Rafael de Lima Ribeiro;;64 3474 3400 Ramal 434;Almoxarifado;;;;;;;Mat: 1623;;Rafael ;Rafael ,,Rafael de Lima Ribeiro - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoOrizona
+Orizona;Sivaldo.Filho;Silvado Donizetti Alves Filho;;64 3474 3400 Ramal 415;Almoxarifado;;;;;;;Mat: 2677;;Silvado ;Silvado ,,Silvado Donizetti Alves Filho - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoOrizona
+Orizona;Marcus.Gonçalves;Marcus Daniel de Oliveira Gonçalves;;64 3474 3400 Ramal 415;Almoxarifado;;;;;;;Mat: 2623;;Marcus ;Marcus ,,Marcus Daniel de Oliveira Gonçalves - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoOrizona
+Orizona;orizona.almox2;orizona.almox2;;64 3474 3400 Ramal 415;Almoxarifado;;;;;;;;;#VALOR!;#VALOR!
+Orizona;ozn-manutencao;1Paulo Da Cruz Valverdes;manutencao2@oderich.com.br;64 3474 3400 Ramal 424;Manutencao;;;;;;;Mat: 1366;;1Paulo ;1Paulo ,,1Paulo Da Cruz Valverdes - Conservas Oderich S/A,,manutencao2@oderich.com.br,,,,64 3474 3400 Ramal 424,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;ozn-manutencao2;2Jose Reinaldo Do Carmo;jose.reinaldo@oderich.com.br;64 3474 3400 Ramal 424;Manutencao;;;;;;;Mat: 1465;;2Jose ;2Jose ,,2Jose Reinaldo Do Carmo - Conservas Oderich S/A,,jose.reinaldo@oderich.com.br,,,,64 3474 3400 Ramal 424,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;ambiental-ozn;Roque Luis Stein;roque@oderich.com.br;64 3474 3400 Ramal 428;Gestao Ambiental;;;;;;;Mat: 1368;;Roque ;Roque ,,Roque Luis Stein - Conservas Oderich S/A,,roque@oderich.com.br,,,,64 3474 3400 Ramal 428,,,,,,,,,,,,,,,,,,Gestao Ambiental-Orizona
+Orizona;ozn-eletrica;1Fabio Luis Oliveira Sutil;eletrica.orizona@oderich.com.br;64 3474 3400 Ramal 423;Manutencao;;;;;;;Mat: 1999;;1Fabio ;1Fabio ,,1Fabio Luis Oliveira Sutil - Conservas Oderich S/A,,eletrica.orizona@oderich.com.br,,,,64 3474 3400 Ramal 423,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;ozn.man;Ariel Gustavo da Paz;manutencao.orizona@oderich.com.br;64 3474 3400 Ramal 433;Manutencao;;;;;;;Mat: 2630;;Ariel ;Ariel ,,Ariel Gustavo da Paz - Conservas Oderich S/A,,manutencao.orizona@oderich.com.br,,,,64 3474 3400 Ramal 433,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;ismar.sousa;Ismar Ray de Sousa;manutencao.orizona@oderich.com.br;64 3474 3400 Ramal 433;Manutencao;;;;;;;Mat: 2842;;Ismar ;Ismar ,,Ismar Ray de Sousa - Conservas Oderich S/A,,manutencao.orizona@oderich.com.br,,,,64 3474 3400 Ramal 433,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;jose.reinaldo;Jose Reinaldo Do Carmo;jose.reinaldo@oderich.com.br;64 3474 3400 Ramal 423;Manutencao;;;;;;;Mat: 1465;;Jose ;Jose ,,Jose Reinaldo Do Carmo - Conservas Oderich S/A,,jose.reinaldo@oderich.com.br,,,,64 3474 3400 Ramal 423,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;claudivino.silveira;Claudivino Silveira Carvalho;claudivino.silveira@oderich.com.br;64 3474 3400 Ramal 424;Manutencao;;;;;;;Mat 58;;Claudivino ;Claudivino ,,Claudivino Silveira Carvalho - Conservas Oderich S/A,,claudivino.silveira@oderich.com.br,,,,64 3474 3400 Ramal 424,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;fabio.sutil;Fabio Luis Oliveira Sutil;fabio.sutil@oderich.com.br;64 3474 3400 Ramal 424;Manutencao;;;;;;;Mat: 1999;;Fabio ;Fabio ,,Fabio Luis Oliveira Sutil - Conservas Oderich S/A,,fabio.sutil@oderich.com.br,,,,64 3474 3400 Ramal 424,,,,,,,,,,,,,,,,,,Manutencao-Orizona
+Orizona;vitor;Vitor Hoppe Oderich;vitor@oderich.com.br;64 3474 3400 Ramal 401;Diretoria;;False;True;21/05/2014 10:53;SCRIPT-OZN.bat;30/07/2020 09:25;Mat: 644;oderich.com.br/ODERICH/USUARIOS/Orizona/Diretoria/Vitor Hoppe Oderich;Vitor ;Vitor ,,Vitor Hoppe Oderich - Conservas Oderich S/A,,vitor@oderich.com.br,,,,64 3474 3400 Ramal 401,,,,,,,,,,,,,,,,,,Diretoria-Orizona
+Orizona;fiscal.ozn;1Elvis Moreira da Silva;fiscal.orizona@oderich.com.br;64 3474 3400 Ramal 448;Expedicao;;;;;;;Mat: 2622;;1Elvis ;1Elvis ,,1Elvis Moreira da Silva - Conservas Oderich S/A,,fiscal.orizona@oderich.com.br,,,,64 3474 3400 Ramal 448,,,,,,,,,,,,,,,,,,Expedicao-Orizona
+Orizona;tolentino.freitas;Tolentino de Freitas Silva N;;64 3474 3400 Ramal 420;Custos;;;;;;;Mat: 1786;;Tolentino ;Tolentino ,,Tolentino de Freitas Silva N - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,CustosOrizona
+Orizona;vinicius.correa;Vinicius Fonseca Correa;vinicius.fonseca@oderich.com.br;64 3474 3400 Ramal 409;Custos;;;;;;;Mat: 48;;Vinicius ;Vinicius ,,Vinicius Fonseca Correa - Conservas Oderich S/A,,vinicius.fonseca@oderich.com.br,,,,64 3474 3400 Ramal 409,,,,,,,,,,,,,,,,,,Custos-Orizona
+Orizona;diego.rocha;Diego Rocha Machado;orizona@oderich.com.br;64 3474 3400 Ramal 408;Expedicao;;False;True;05/12/2018 10:36;SCRIPT-OZN.bat;28/07/2020 12:01;Mat: 2628;oderich.com.br/ODERICH/USUARIOS/Orizona/Expedição/Diego Rocha Machado;Diego ;Diego ,,Diego Rocha Machado - Conservas Oderich S/A,,orizona@oderich.com.br,,,,64 3474 3400 Ramal 408,,,,,,,,,,,,,,,,,,Expedicao-Orizona
+Orizona;ozn-expedicao;ozn-expedicao;expedicao.orizona@oderich.com.br;64 3474 3400 Ramal 434;Expedicao;;False;True;25/06/2013 10:28;SCRIPT-OZN.bat;03/08/2020 12:46;;oderich.com.br/ODERICH/USUARIOS/Orizona/Expedição/ozn-expedicao;#VALOR!;#VALOR!
+Orizona;tiago.silva;Tiago Da Silva Mendes;tiago.silva@oderich.com.br;;Expedicao;;;;;;;Mat: 2930;;Tiago ;Tiago ,,Tiago Da Silva Mendes - Conservas Oderich S/A,,tiago.silva@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,Expedicao-Orizona
+Orizona;elvis.silva;Elvis Moreira da Silva;elvis.moreira@oderich.com.br;64 3474 3400 Ramal 448;Expedicao;;;;;;;Mat: 2622;;Elvis ;Elvis ,,Elvis Moreira da Silva - Conservas Oderich S/A,,elvis.moreira@oderich.com.br,,,,64 3474 3400 Ramal 448,,,,,,,,,,,,,,,,,,Expedicao-Orizona
+Orizona;marcelog;Marcelo Gonçalves Machado;adm.orizona@oderich.com.br;64 3474 3400 Ramal 407;Expedicao;;;;;;;Mat: 448;;Marcelo ;Marcelo ,,Marcelo Gonçalves Machado - Conservas Oderich S/A,,adm.orizona@oderich.com.br,,,,64 3474 3400 Ramal 407,,,,,,,,,,,,,,,,,,Expedicao-Orizona
+Pelotas;Pel-recebimento2;Liliane Raupp Medina;mp.pelotas@oderich.com.br;53 2123 9800 Ramal 228;Recebimento;;;;;;;Mat: 282;;Liliane ;Liliane ,,Liliane Raupp Medina - Conservas Oderich S/A,,mp.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 228,,,,,,,,,,,,,,,,,,Recebimento-Pelotas
+Pelotas;admin.pelotas;Gilvani Schwanke Dos Santos;admin.pelotas@oderich.com.br;53 2123 9800 Ramal 229;Recebimento;;;;;;;Mat: 6970;;Gilvani ;Gilvani ,,Gilvani Schwanke Dos Santos - Conservas Oderich S/A,,admin.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 229,,,,,,,,,,,,,,,,,,Recebimento-Pelotas
+Pelotas;recebimento.pelotas;Recebimento Pelotas;recebimento.pelotas@oderich.com.br;;Recebimento;;;;;;;;;Recebimento ;Recebimento ,,Recebimento Pelotas - Conservas Oderich S/A,,recebimento.pelotas@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,Recebimento-Pelotas
+Pelotas;edilson;Edilson Canez de Oliveira;edilson@oderich.com.br;53 2123 9800 Ramal 225;RH;;;;;;;Mat: 6043;;Edilson ;Edilson ,,Edilson Canez de Oliveira - Conservas Oderich S/A,,edilson@oderich.com.br,,,,53 2123 9800 Ramal 225,,,,,,,,,,,,,,,,,,RH-Pelotas
+Pelotas;cleia;Cleia Marisa Ribes Couto;cleia@oderich.com.br;53 2123 9800 Ramal 225;RH;;;;;;;Mat: 5487;;Cleia ;Cleia ,,Cleia Marisa Ribes Couto - Conservas Oderich S/A,,cleia@oderich.com.br,,,,53 2123 9800 Ramal 225,,,,,,,,,,,,,,,,,,RH-Pelotas
+Pelotas;qualidade.pelotas2;Mairane Plamer Larrossa;qualidade.pelotas2@oderich.com.br;53 2123 9800 Ramal 226;Qualidade;;;;;;;Mat: 5770;;Mairane ;Mairane ,,Mairane Plamer Larrossa - Conservas Oderich S/A,,qualidade.pelotas2@oderich.com.br,,,,53 2123 9800 Ramal 226,,,,,,,,,,,,,,,,,,Qualidade-Pelotas
+Pelotas;qualidade1pelotas;Maicon Acosta Arraché;;;Qualidade;;;;;;;Mat:;;Maicon ;Maicon ,,Maicon Acosta Arraché - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,QualidadePelotas
+Pelotas;naralice.hartwig;Naralice Hartwig;naralice.hartwig@oderich.com.br;;Qualidade;;;;;;;Mat 8155;;Naralice ;Naralice ,,Naralice Hartwig - Conservas Oderich S/A,,naralice.hartwig@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,Qualidade-Pelotas
+Pelotas;simone;Simone Cristina Engel;simone@oderich.com.br;53 2123 9800 Ramal 226;Qualidade;;;;;;;Mat: 9098;;Simone ;Simone ,,Simone Cristina Engel - Conservas Oderich S/A,,simone@oderich.com.br,,,,53 2123 9800 Ramal 226,,,,,,,,,,,,,,,,,,Qualidade-Pelotas
+Pelotas;queli;Queli Simone Silveira Da Fonseca Silveir;rhumanos.pelotas@oderich.com.br;53 2123 9800 Ramal 225;Qualidade;;;;;;;Mat: 4806;;Queli ;Queli ,,Queli Simone Silveira Da Fonseca Silveir - Conservas Oderich S/A,,rhumanos.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 225,,,,,,,,,,,,,,,,,,Qualidade-Pelotas
+Pelotas;coletor9;coletor9;;;Sistema;;;;;;;Localização - PELOTAS;;;
+Pelotas;coletor8;coletor8;;;Sistema;;;;;;;Localização - PELOTAS;;;
+Pelotas;pel.portaria;Portaria Pelotas;;53 2123 9800 Ramal 230;Sistema;;;;;;;;;;
+Pelotas;rot.pel;Rotulagem Pelotas;;;Sistema;;;;;;;;;;
+Pelotas;producao.pelotas;Producao Pelotas;producao.pelotas@oderich.com.br;53 2123 9800 Ramal 224;Sistema;;;;;;;;;;
+Pelotas;pel-sesmt;Edson Canez De Oliveira;sesmtpelotas@oderich.com.br;53 2123 9800 Ramal 222;Sesmt;;;;;;;Mat: 8206;;Edson ;Edson ,,Edson Canez De Oliveira - Conservas Oderich S/A,,sesmtpelotas@oderich.com.br,,,,53 2123 9800 Ramal 222,,,,,,,,,,,,,,,,,,Sesmt-Pelotas
+Pelotas;caren.belchor;Caren Belchor;andreo@oderich.com.br;53 2123 9800 Ramal 222;Sesmt;;;;;;;Mat: 8426;;Caren ;Caren ,,Caren Belchor - Conservas Oderich S/A,,andreo@oderich.com.br,,,,53 2123 9800 Ramal 222,,,,,,,,,,,,,,,,,,Sesmt-Pelotas
+Pelotas;almox1.pelotas;Almox;almox1.pelotas@oderich.com.br;53 2123 9800 Ramal 229;Sistema;;False;True;23/05/2014 10:31;SCRIPT.BAT;30/07/2020 08:02;;oderich.com.br/ODERICH/USUARIOS/Pelotas/Almoxarifado/Almox;;
+Pelotas;cameras;Cameras Pelotas;;;Sistema;;;;;;;;;;
+Pelotas;embalagens.pelotas;Bruna Rodrigues Dos Reis;embalagens.pelotas@oderich.com.br;53 2123 9800 Ramal 239;Sistema;;;;;;;Mat: 4080;;;
+Pelotas;qualidade.pelotas;Elisabete Antunes Costa Spiering;qualidade.pelotas@oderich.com.br;53 2123 9800 Ramal 224;Qualidade;;False;True;17/08/2015 11:04;SCRIPT.BAT;29/07/2020 06:39;Mat: 1212;oderich.com.br/ODERICH/USUARIOS/Pelotas/Qualidade/Elisabete Antunes Costa Spiering;Elisabete ;Elisabete ,,Elisabete Antunes Costa Spiering - Conservas Oderich S/A,,qualidade.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 224,,,,,,,,,,,,,,,,,,Qualidade-Pelotas
+Pelotas;elizandro.duarte;Elizandro De Lima Duarte;elizandro.duarte@oderich.com.br;53 2123 9800 Ramal 229;Almoxarifado;;;;;;;Matr: 5457;;Elizandro ;Elizandro ,,Elizandro De Lima Duarte - Conservas Oderich S/A,,elizandro.duarte@oderich.com.br,,,,53 2123 9800 Ramal 229,,,,,,,,,,,,,,,,,,Almoxarifado-Pelotas
+Pelotas;balcao.pel;Balcao pel;;;Almoxarifado;;;;;;;;;Balcao ;Balcao ,,Balcao pel - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoPelotas
+Pelotas;elizandro;Elizandro de Lima Duarte_old;;53 2123 9800 Ramal 229;Almoxarifado;;;;;;;Mat: 5457;;Elizandro ;Elizandro ,,Elizandro de Lima Duarte_old - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AlmoxarifadoPelotas
+Pelotas;charles;Charles Bica Goncalves;pcp.pelotas@oderich.com.br;53 2123 9800 Ramal 227;Custos;;;;;;;Mat: 1202;;Charles ;Charles ,,Charles Bica Goncalves - Conservas Oderich S/A,,pcp.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 227,,,,,,,,,,,,,,,,,,Custos-Pelotas
+Pelotas;rogerio;Luis Rogerio Luz Da Silva;luisrogerio@oderich.com.br;53 2123 9800 Ramal 229;Almoxarifado;;;;;;;Mat: 240;;Luis ;Luis ,,Luis Rogerio Luz Da Silva - Conservas Oderich S/A,,luisrogerio@oderich.com.br,,,,53 2123 9800 Ramal 229,,,,,,,,,,,,,,,,,,Almoxarifado-Pelotas
+Pelotas;ronanfelix;Ronan Felix Fonseca;ronan@oderich.com.br;53 2123 9800 Ramal 243;Administracao;;False;True;10/03/2017 15:22;SCRIPT.BAT;06/08/2020 07:56;Mat: 3191;oderich.com.br/ODERICH/USUARIOS/Pelotas/Administração/Ronan Felix Fonseca;Ronan ;Ronan ,,Ronan Felix Fonseca - Conservas Oderich S/A,,ronan@oderich.com.br,,,,53 2123 9800 Ramal 243,,,,,,,,,,,,,,,,,,Administracao-Pelotas
+Pelotas;andreo;Andreo Da Rosa Borges;andreo@oderich.com.br;53 2123 9800 Ramal 221;Administracao;;;;;;;Mat: 7927;;Andreo ;Andreo ,,Andreo Da Rosa Borges - Conservas Oderich S/A,,andreo@oderich.com.br,,,,53 2123 9800 Ramal 221,,,,,,,,,,,,,,,,,,Administracao-Pelotas
+Pelotas;rosalvo.silva;Rosalvo Garcia Silva;;53 2123 9800 Ramal 236;Administracao;;;;;;;Matr: 5519;;Rosalvo ;Rosalvo ,,Rosalvo Garcia Silva - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,AdministracaoPelotas
+Pelotas;gestores.pelotas;Suelen Caldeira Pla;gestores.pelotas@oderich.com.br;53 2123 9800 Ramal 234;Administracao;;;;;;;Mat: 6614;;Suelen ;Suelen ,,Suelen Caldeira Pla - Conservas Oderich S/A,,gestores.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 234,,,,,,,,,,,,,,,,,,Administracao-Pelotas
+Pelotas;silviae;Silvia Elena Fonseca Ribeiro;silviae@oderich.com.br;53 2123 9800 Ramal 235;Administracao;;;;;;;Mat: 5542;;Silvia ;Silvia ,,Silvia Elena Fonseca Ribeiro - Conservas Oderich S/A,,silviae@oderich.com.br,,,,53 2123 9800 Ramal 235,,,,,,,,,,,,,,,,,,Administracao-Pelotas
+Pelotas;eletronica.pelotas;Jaderson Souza Alves;jaderson.alves@oderich.com.br;53 2123 9800 Ramal 231;Manutencao;;;;;;;Mat: 8198;;Jaderson ;Jaderson ,,Jaderson Souza Alves - Conservas Oderich S/A,,jaderson.alves@oderich.com.br,,,,53 2123 9800 Ramal 231,,,,,,,,,,,,,,,,,,Manutencao-Pelotas
+Pelotas;manut.pelotas;Amanda Planella;manut.pelotas@oderich.com.br;53 2123 9800 Ramal 231;Manutencao;;;;;;;Mat: 8288;;Amanda ;Amanda ,,Amanda Planella - Conservas Oderich S/A,,manut.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 231,,,,,,,,,,,,,,,,,,Manutencao-Pelotas
+Pelotas;jairo;Jairo Renato Soares Da Fonseca;jairo@oderich.com.br;53 2123 9800 Ramal 231;Manutencao;;;;;;;Mat: 2245;;Jairo ;Jairo ,,Jairo Renato Soares Da Fonseca - Conservas Oderich S/A,,jairo@oderich.com.br,,,,53 2123 9800 Ramal 231,,,,,,,,,,,,,,,,,,Manutencao-Pelotas
+Pelotas;manut.pelotas2;Manutenção Pelotas 2;manut.pelotas2@oderich.com.br;53 2123 9800 Ramal 231;Manutencao;;;;;;;;;Manutenção ;Manutenção ,,Manutenção Pelotas 2 - Conservas Oderich S/A,,manut.pelotas2@oderich.com.br,,,,53 2123 9800 Ramal 231,,,,,,,,,,,,,,,,,,Manutencao-Pelotas
+Pelotas;john.lima;John Lennon Lima Da Silva;john.lima@oderich.com.br;53 2123 9800 Ramal 231;Manutencao;;;;;;;Mat: 7536;;John ;John ,,John Lennon Lima Da Silva - Conservas Oderich S/A,,john.lima@oderich.com.br,,,,53 2123 9800 Ramal 231,,,,,,,,,,,,,,,,,,Manutencao-Pelotas
+Pelotas;carlos.adolfo;Carlos Adolfo Leao Oderich;carlos@oderich.com.br;53 2123 9800 Ramal 238;Diretoria;;;;;;;Mat: 2189;;Carlos ;Carlos ,,Carlos Adolfo Leao Oderich - Conservas Oderich S/A,,carlos@oderich.com.br,,,,53 2123 9800 Ramal 238,,,,,,,,,,,,,,,,,,Diretoria-Pelotas
+Pelotas;louisiane;Louisiane Da Silva Milbrath Silveira;louisiane@oderich.com.br;53 2123 9800 Ramal 239;Custos;;False;True;25/02/2010 10:45;SCRIPT.BAT;27/07/2020 07:35;Mat: 690;oderich.com.br/ODERICH/USUARIOS/Pelotas/Custos/Louisiane Da Silva Milbrath Silveira;Louisiane ;Louisiane ,,Louisiane Da Silva Milbrath Silveira - Conservas Oderich S/A,,louisiane@oderich.com.br,,,,53 2123 9800 Ramal 239,,,,,,,,,,,,,,,,,,Custos-Pelotas
+Pelotas;expedicao.pelotas;Adao Elias Baad Ribes;expedicao.pelotas@oderich.com.br;53 2123 9800 Ramal 236;Expedicao;;;;;;;Mat: 666;;Adao ;Adao ,,Adao Elias Baad Ribes - Conservas Oderich S/A,,expedicao.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 236,,,,,,,,,,,,,,,,,,Expedicao-Pelotas
+Pelotas;ambiental.pelotas;Aline Morales De Oliveira Duarte;ambiental.pelotas@oderich.com.br;53 2123 9800 Ramal 237;Gestao Ambiental;;False;True;06/12/2013 09:20;SCRIPT.BAT;31/07/2020 09:27;Mat: 5525;oderich.com.br/ODERICH/USUARIOS/Pelotas/Gestão Ambiental/Aline Morales De Oliveira Duarte;Aline ;Aline ,,Aline Morales De Oliveira Duarte - Conservas Oderich S/A,,ambiental.pelotas@oderich.com.br,,,,53 2123 9800 Ramal 237,,,,,,,,,,,,,,,,,,Gestao Ambiental-Pelotas
+Pelotas;gomes;Joao Elizio Kern Gomes;;53 2123 9800 Ramal 236;Expedicao;;;;;;;Mat: 245;;Joao ;Joao ,,Joao Elizio Kern Gomes - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,ExpedicaoPelotas
+Vila Rica;ezex.marcelo;Marcelo Biegelmeyer;marcelo.biegelmeyer@ezex.com.br;54 3537 6070;Terceiros;;True;True;06/04/2020 13:27;;31/07/2020 15:49;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Marcelo Biegelmeyer;;
+Vila Rica;ezex.mauricio;Mauricio Ripke;mauricio.ripke@ezex.com.br;54 3537 6070;Terceiros;;True;True;14/02/2020 13:32;;02/07/2020 15:36;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Mauricio Ripke;;
+Vila Rica;native.ip;Native IP;relacionamento@nativeip.com.br;54 3013 9018;Terceiros;;;;;;;Prestador de Serviço;;;
+Vila Rica;ezex.israel;Israel Comazzetto dos Reis;israel.reis@ezex.com.br;54 3537 6070;Terceiros;;True;True;24/02/2020 09:42;;15/03/2020 16:56;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Israel Comazzetto dos Reis;;
+Vila Rica;jean;Jean Wieczorek;;;Terceiros;;;;;;;;;;
+Vila Rica;joao.mello;Joao Mello;joao@mellotech.com.br;54 9 9155 0945;Terceiros;;True;True;22/01/2020 11:03;;27/07/2020 13:47;Prestador de Serviços;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Joao Mello;;
+Vila Rica;vinicius.tisatto;Vinicius Tisatto (MelloTec);vinicius@mellotech.com.br;54 98103 1421;Terceiros;;False;True;25/06/2020 09:14;;30/07/2020 09:47;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Vinicius Tisatto (MelloTec);;
+Vila Rica;yuri;Yuri Franzoni;;;Terceiros;;;;;;;;;;
+Vila Rica;celestino;Celestino Durli;celestino@oderich.com.br;51 2143 1181;TI;;True;True;08/04/2019 17:17;Vila_Ti.bat;06/08/2020 09:27;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Celestino Durli;Celestino ;Celestino ,,Celestino Durli - Conservas Oderich S/A,,celestino@oderich.com.br,,,,51 2143 1181,,,,,,,,,,,,,,,,,,TI-Vila Rica
+Vila Rica;ezex.paulo;Paulo Rossat. Rossato;paulo.rossato@ezex.com.br;54 3537 6070;Terceiros;;True;True;14/02/2020 13:17;;29/07/2020 14:45;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Paulo Rossat. Rossato;;
+Vila Rica;sensus.tecnologia;Sensus Tecnologia;;47 3029 2899;Terceiros;;True;True;31/03/2020 16:45;;27/05/2020 14:04;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Sensus Tecnologia;;
+Vila Rica;ezex.vagner;Vagner Pedroni;vagner.pedroni@oderich.com.br;54 3537 6070;Terceiros;;True;True;14/02/2020 13:25;;22/05/2020 11:05;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Vagner Pedroni;;
+Vila Rica;ezex.giuliano;Giuliano Dossin;giuliano.dossin@ezex.com.br;54 3537 6070;Terceiros;;True;True;15/05/2020 11:27;;17/06/2020 13:26;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Giuliano Dossin;;
+Vila Rica;svc_service;svc_service;;;Sistema;;True;True;22/04/2020 17:25;;31/07/2020 22:09;Usuario para agendador de tarefas nos servidores;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/svc_service;;
+Vila Rica;svc_services;svc_services;;;Sistema;;True;True;18/12/2014 14:44;;29/06/2020 15:32;Usuario utilizado para tarefas agendadas e outras rotinas;oderich.com.br/ODERICH/Serviços/SERVICOS/svc_services;;
+Vila Rica;veeam.bkp;Veeam Bkp;;;Sistema;;True;True;12/02/2020 11:28;;01/07/2020 08:09;Usuário de Backup do Veeam Backup;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Veeam Bkp;;
+Vila Rica;rpwcarrega;rpwcarrega;;;Sistema;;True;True;09/09/2019 09:42;;30/07/2020 11:56;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/rpwcarrega;;
+Vila Rica;sala.reuniao;Sala Reunião;;;Sistema;;;;;;;;;;
+Vila Rica;suporte;suporte;;;Sistema;;True;True;30/01/2014 14:38;SCRIPT.BAT;01/08/2020 03:07;USR -> RDP -> TS -> Desktop -> Administrador -> Senha:;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/suporte;;
+Vila Rica;diego.peruzzo;Diego Peruzzo;diego@peruzzo.tech;54 9 8111 9891;Terceiros;;True;False;10/02/2020 13:13;;12/06/2020 11:30;Prestador de Serviços;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Diego Peruzzo;;
+Vila Rica;ezex.eliezer;Eliezer Riboldi;eliezer.riboldi@ezex.com.br;54 3537 6070;Terceiros;;True;True;14/02/2020 13:07;;03/08/2020 10:16;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Eliezer Riboldi;;
+Vila Rica;fortigate;Fortigate;;;Terceiros;;True;True;22/10/2019 12:01;;06/08/2020 09:38;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Fortigate;;
+Vila Rica;win_svc;win_svc;;;Sistema;;True;True;18/12/2014 15:24;SCRIPT.BAT;24/10/2019 09:14;;oderich.com.br/ODERICH/Serviços/SERVICOS/win_svc;;
+Vila Rica;auditoria;Auditoria;;;Terceiros;;False;True;18/07/2011 10:22;SCRIPT.BAT;15/01/2020 09:36;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Contabilidade/Auditoria;;
+Vila Rica;Becomex_patrick;Becomex_patrick;;;Terceiros;;True;True;26/06/2018 12:07;SCRIPTe.BAT;29/07/2020 12:07;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Becomex_patrick;;
+Vila Rica;silvio;Jose Silvio Flores Costa;silvio@oderich.com.br;51 2143 1162;Vendas;;;;;;;Mat: 6545;;Jose ;Jose ,,Jose Silvio Flores Costa - Conservas Oderich S/A,,silvio@oderich.com.br,,,,51 2143 1162,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;leandrob;Leandro Bourscheid;leandrob@oderich.com.br;51 2143 1151;Vendas;;False;True;16/10/2017 14:52;SCRIPT.BAT;03/08/2020 07:24;Mat: 9481;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Expedição/Leandro Bourscheid;Leandro ;Leandro ,,Leandro Bourscheid - Conservas Oderich S/A,,leandrob@oderich.com.br,,,,51 2143 1151,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;luana;Luana Terezinha Juchem;luana@oderich.com.br;51 2143 1111;Vendas;;;;;;;Mat: 17200;;Luana ;Luana ,,Luana Terezinha Juchem - Conservas Oderich S/A,,luana@oderich.com.br,,,,51 2143 1111,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;fatima;Fatima Soares;cd.vilarica@oderich.com.br;51 2143 1156;Vendas;;;;;;;Mat: 11178;;Fatima ;Fatima ,,Fatima Soares - Conservas Oderich S/A,,cd.vilarica@oderich.com.br,,,,51 2143 1156,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;gabrielaw;Gabriela Wissmann;gabrielaw@oderich.com.br;51 2143 1164;Vendas;;;;;;;Mat: 15025;;Gabriela ;Gabriela ,,Gabriela Wissmann - Conservas Oderich S/A,,gabrielaw@oderich.com.br,,,,51 2143 1164,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;guilherme.giuliani;Guilherme da Silva Giuliani;tranportes1@oderich.com.br;51 2143 1163;Vendas;;;;;;;Mat: 18531;;Guilherme ;Guilherme ,,Guilherme da Silva Giuliani - Conservas Oderich S/A,,tranportes1@oderich.com.br,,,,51 2143 1163,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;siane;Siane Siqueira;vendas1@oderich.com.br;51 2143 1164;Vendas;;;;;;;Mat: 18248;;Siane ;Siane ,,Siane Siqueira - Conservas Oderich S/A,,vendas1@oderich.com.br,,,,51 2143 1164,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;vioderich;Vinicius Oderich;vi@oderich.com.br;51 2143 1170;Vendas;;;;;;;Mat: 14754;;Vinicius ;Vinicius ,,Vinicius Oderich - Conservas Oderich S/A,,vi@oderich.com.br,,,,51 2143 1170,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;william;William Raymundo;william@oderich.com.br;51 2143 1187;Vendas;;;;;;;Mat: 13739;;William ;William ,,William Raymundo - Conservas Oderich S/A,,william@oderich.com.br,,,,51 2143 1187,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;lucas.flores;Lucas Flores Bitzki;lucas.flores@oderich.com.br;51 2143 1110;Vendas;;;;;;;Mat: 18205;;Lucas ;Lucas ,,Lucas Flores Bitzki - Conservas Oderich S/A,,lucas.flores@oderich.com.br,,,,51 2143 1110,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;marciod;Márcio José Dellagostin;marcio@oderich.com.br;51 2143 1112;Vendas;;False;True;21/11/2017 07:18;SCRIPT.BAT;03/08/2020 08:00;Mat: 18005;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Comercial/Márcio José Dellagostin;Márcio ;Márcio ,,Márcio José Dellagostin - Conservas Oderich S/A,,marcio@oderich.com.br,,,,51 2143 1112,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;faturamento;Mikael Wust Lorscheitter;mikael@oderich.com.br;51 2143 1188;Vendas;;;;;;;Mat: 17173;;Mikael ;Mikael ,,Mikael Wust Lorscheitter - Conservas Oderich S/A,,mikael@oderich.com.br,,,,51 2143 1188,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;transporte;Evandro;transporte@oderich.com.br;51 2143 1163;Vendas;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;#VALOR!;#VALOR!
+Vila Rica;lhc;lhc nao apagar;;;TI;;True;True;22/01/2020 17:10;SCRIPT.BAT;22/01/2020 17:11;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/lhc nao apagar;lhc ;lhc ,,lhc nao apagar - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,TIVila Rica
+Vila Rica;LHC_Maicon;LHC_Maicon;;;TI;;True;True;22/01/2020 17:13;SCRIPT.BAT;22/01/2020 17:16;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/LHC_Maicon;#VALOR!;#VALOR!
+Vila Rica;Vitor.Machado;Vitor Alexandre Machado;vitor.machado@oderich.com.br;51 2143 1121;TI;;True;True;16/10/2019 16:03;Vila_Ti.bat;03/08/2020 07:22;Mat: 18366;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Vitor Alexandre Machado;Vitor ;Vitor ,,Vitor Alexandre Machado - Conservas Oderich S/A,,vitor.machado@oderich.com.br,,,,51 2143 1121,,,,,,,,,,,,,,,,,,TI-Vila Rica
+Vila Rica;fabio;Fabio Leandro Borges Pasqual;fabio.leandro@oderich.com.br;51 2143 1120;TI;;True;True;12/07/2019 08:40;Vila_Ti.bat;29/07/2020 12:54;Mat: 18313;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Fabio Leandro Borges Pasqual;Fabio ;Fabio ,,Fabio Leandro Borges Pasqual - Conservas Oderich S/A,,fabio.leandro@oderich.com.br,,,,51 2143 1120,,,,,,,,,,,,,,,,,,TI-Vila Rica
+Vila Rica;fabio#;Fabio Leandro Pasqualin#;fabio.leandro@oderich.com.br;51 2143 1120;TI;;True;True;12/11/2019 13:43;Vila_Ti.bat;04/08/2020 22:49;Mat: 18313;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Fabio Leandro Pasqualin#;Fabio ;Fabio ,,Fabio Leandro Pasqualin# - Conservas Oderich S/A,,fabio.leandro@oderich.com.br,,,,51 2143 1120,,,,,,,,,,,,,,,,,,TI-Vila Rica
+Vila Rica;gilson;Gilson Calloni;gilson@oderich.com.br;51 2143 1120;TI;;True;True;01/12/2009 13:52;Vila_Ti.bat;02/08/2020 16:10;# A T E N C A O conta para backups cobian a agendador de tarefas Mat: 12440;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Gilson Calloni;Gilson ;Gilson ,,Gilson Calloni - Conservas Oderich S/A,,gilson@oderich.com.br,,,,51 2143 1120,,,,,,,,,,,,,,,,,,TI-Vila Rica
+Vila Rica;cristian.rocha;Cristian Clossmann Da Rocha;cristian.rocha@oderich.com.br;51 2143 1156;Vendas;;;;;;;Matr: 18526;;Cristian ;Cristian ,,Cristian Clossmann Da Rocha - Conservas Oderich S/A,,cristian.rocha@oderich.com.br,,,,51 2143 1156,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;eduardob;Eduardo Boettcher;eduardob@oderich.com.br;51 2143 1154;Vendas;;;;;;;Mat: 17896;;Eduardo ;Eduardo ,,Eduardo Boettcher - Conservas Oderich S/A,,eduardob@oderich.com.br,,,,51 2143 1154,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;elton;Elton Valdir Laux;elton@oderich.com.br;51 2143 1146;Vendas;;;;;;;Mat: 10480;;Elton ;Elton ,,Elton Valdir Laux - Conservas Oderich S/A,,elton@oderich.com.br,,,,51 2143 1146,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;ariane;Ariane Rosenbach;vendas2@oderich.com.br;51 2143 1159;Vendas;;;;;;;Mat: 18247;;Ariane ;Ariane ,,Ariane Rosenbach - Conservas Oderich S/A,,vendas2@oderich.com.br,,,,51 2143 1159,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;brunopiltz;Bruno Geovani Piltz Dos Santos;bruno.piltz@oderich.com.br;51 2143 1179;Vendas;;;;;;;Mat: 17354;;Bruno ;Bruno ,,Bruno Geovani Piltz Dos Santos - Conservas Oderich S/A,,bruno.piltz@oderich.com.br,,,,51 2143 1179,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;daniel;Carlos Daniel Griebler;daniel@oderich.com.br;51 2143 1136;Vendas;;;;;;;Mat: 7441;;Carlos ;Carlos ,,Carlos Daniel Griebler - Conservas Oderich S/A,,daniel@oderich.com.br,,,,51 2143 1136,,,,,,,,,,,,,,,,,,Vendas-Vila Rica
+Vila Rica;quirius;quirius;;;Sistema;;True;True;15/07/2013 14:47;SCRIPT.BAT;13/05/2020 09:06;# A T E N C A O conta para servico quirius;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/quirius;;
+Vila Rica;marcos;Marcos Odorico Oderich;marcos@oderich.com.br;51 2143 1137;Diretoria;;;;;;;Mat: 1;;Marcos ;Marcos ,,Marcos Odorico Oderich - Conservas Oderich S/A,,marcos@oderich.com.br,,,,51 2143 1137,,,,,,,,,,,,,,,,,,Diretoria-Vila Rica
+Vila Rica;diego;Diego Josue Flores;diego@oderich.com.br;51 2143 1189;Exportacao;;;;;;;Mat: 11413;;Diego ;Diego ,,Diego Josue Flores - Conservas Oderich S/A,,diego@oderich.com.br,,,,51 2143 1189,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;Jociane.Freire;Jociane Carla Freire;jociane.freire@oderich.com.br;51 2143 1199;Exportacao;;;;;;;Mat: 18343;;Jociane ;Jociane ,,Jociane Carla Freire - Conservas Oderich S/A,,jociane.freire@oderich.com.br,,,,51 2143 1199,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;martinelli;Joao Pedro Martinelli;martinelli@oderich.com.br;51 2143 1148;Custos;;;;;;;Mat: 8420;;Joao ;Joao ,,Joao Pedro Martinelli - Conservas Oderich S/A,,martinelli@oderich.com.br,,,,51 2143 1148,,,,,,,,,,,,,,,,,,Custos-Vila Rica
+Vila Rica;custo_vila;Stephanie Barth Bays;custos_vila@oderich.com.br;51 2143 1148;Custos;;;;;;;Mat: 17826;;Stephanie ;Stephanie ,,Stephanie Barth Bays - Conservas Oderich S/A,,custos_vila@oderich.com.br,,,,51 2143 1148,,,,,,,,,,,,,,,,,,Custos-Vila Rica
+Vila Rica;joao.adolfo;Joao Adolfo Oderich;joderich@oderich.com.br;;Diretoria;;;;;;;Mat: 6;;Joao ;Joao ,,Joao Adolfo Oderich - Conservas Oderich S/A,,joderich@oderich.com.br,,,,,,,,,,,,,,,,,,,,,,Diretoria-Vila Rica
+Vila Rica;tales;Tales Carrard Ledur;tales@oderich.com.br;51 2143 1165;Exportacao;;;;;;;Mat: 10888;;Tales ;Tales ,,Tales Carrard Ledur - Conservas Oderich S/A,,tales@oderich.com.br,,,,51 2143 1165,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;thomas;Thomas Oderich;thomas@oderich.com.br;51 2143 1142;Exportacao;;;;;;;Mat: 17921;;Thomas ;Thomas ,,Thomas Oderich - Conservas Oderich S/A,,thomas@oderich.com.br,,,,51 2143 1142,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;viniciusp;Vinicius Paiva Correa;vinicius@oderich.com.br;51 2143 1166;Exportacao;;;;;;;Mat: 12663;;Vinicius ;Vinicius ,,Vinicius Paiva Correa - Conservas Oderich S/A,,vinicius@oderich.com.br,,,,51 2143 1166,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;exportacao;Lucas Laux;exportacao@oderich.com.br;51 2143 1167;Exportacao;;;;;;;Mat: 17812;;Lucas ;Lucas ,,Lucas Laux - Conservas Oderich S/A,,exportacao@oderich.com.br,,,,51 2143 1167,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;exportacao.vila;Marcos Coito Flores;docs.export@oderich.com.br;51 2143 1167;Exportacao;;;;;;;Mat: 17882;;Marcos ;Marcos ,,Marcos Coito Flores - Conservas Oderich S/A,,docs.export@oderich.com.br,,,,51 2143 1167,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;rafael.augusto;Rafael Augusto Sehnem;rafael.augusto@oderich.com.br;51 2143 1167;Exportacao;;;;;;;Mat: 17187;;Rafael ;Rafael ,,Rafael Augusto Sehnem - Conservas Oderich S/A,,rafael.augusto@oderich.com.br,,,,51 2143 1167,,,,,,,,,,,,,,,,,,Exportacao-Vila Rica
+Vila Rica;everson;Everson Sulzbach Telles;everson@oderich.com.br;51 2143 1148;Custos;;;;;;;Mat: 15249;;Everson ;Everson ,,Everson Sulzbach Telles - Conservas Oderich S/A,,everson@oderich.com.br,,,,51 2143 1148,,,,,,,,,,,,,,,,,,Custos-Vila Rica
+Vila Rica;miguel;Helber Antoniazzi Hartmann;miguel@oderich.com.br;51 2143 1176;Compras;;;;;;;Mat: 14355;;Helber ;Helber ,,Helber Antoniazzi Hartmann - Conservas Oderich S/A,,miguel@oderich.com.br,,,,51 2143 1176,,,,,,,,,,,,,,,,,,Compras-Vila Rica
+Vila Rica;helio;Helio Gailhard Filho;helio@oderich.com.br;51 2143 1180;Compras;;;;;;;Mat: 15232;;Helio ;Helio ,,Helio Gailhard Filho - Conservas Oderich S/A,,helio@oderich.com.br,,,,51 2143 1180,,,,,,,,,,,,,,,,,,Compras-Vila Rica
+Vila Rica;leandro;Leandro Silva Flores;leandro@oderich.com.br;51 2143 1160;Compras;;;;;;;Mat: 8030;;Leandro ;Leandro ,,Leandro Silva Flores - Conservas Oderich S/A,,leandro@oderich.com.br,,,,51 2143 1160,,,,,,,,,,,,,,,,,,Compras-Vila Rica
+Vila Rica;bahia;bahia;;;;;;;;;;;;#VALOR!;#VALOR!
+Vila Rica;user_teste;Teste de usuario;;;;;;;;;;;;Teste ;Teste ,,Teste de usuario - Conservas Oderich S/A,,,,,,,,,,,,,,,,,,,,,,,,,,Vila Rica
+Vila Rica;analu;Ana Lucia Pereira;compras@oderich.com.br;51 2143 1140;Compras;;;;;;;Mat: 9305;;Ana ;Ana ,,Ana Lucia Pereira - Conservas Oderich S/A,,compras@oderich.com.br,,,,51 2143 1140,,,,,,,,,,,,,,,,,,Compras-Vila Rica
+Vila Rica;patricia;Patricia Cristini Hartmann;patricia@oderich.com.br;51 2143 1178;Contabilidade;;;;;;;Mat: 13336;;Patricia ;Patricia ,,Patricia Cristini Hartmann - Conservas Oderich S/A,,patricia@oderich.com.br,,,,51 2143 1178,,,,,,,,,,,,,,,,,,Contabilidade-Vila Rica
+Vila Rica;rodrigo;Rodrigo Henz Fernandes;rodrigo@oderich.com.br;51 2143 1190;Contabilidade;;False;True;09/02/2006 17:39;SCRIPT.BAT;03/08/2020 07:18;Mat: 10632;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Contabilidade/Rodrigo Henz Fernandes;Rodrigo ;Rodrigo ,,Rodrigo Henz Fernandes - Conservas Oderich S/A,,rodrigo@oderich.com.br,,,,51 2143 1190,,,,,,,,,,,,,,,,,,Contabilidade-Vila Rica
+Vila Rica;giuliani;Alberto Giuliani;giuliani@oderich.com.br;51 2143 1186;Custos;;False;True;16/12/2002 20:50;VILA_CUSTOS.BAT;27/07/2020 13:05;Mat: 8912;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Custos/Alberto Giuliani;Alberto ;Alberto ,,Alberto Giuliani - Conservas Oderich S/A,,giuliani@oderich.com.br,,,,51 2143 1186,,,,,,,,,,,,,,,,,,Custos-Vila Rica
+Vila Rica;cristiane;Cristiane Cordeiro;cristianec@oderich.com.br;51 2143 1172;Contabilidade;;;;;;;Mat: 11698;;Cristiane ;Cristiane ,,Cristiane Cordeiro - Conservas Oderich S/A,,cristianec@oderich.com.br,,,,51 2143 1172,,,,,,,,,,,,,,,,,,Contabilidade-Vila Rica
+Vila Rica;deise;Deise Maria Nunes;deise@oderich.com.br;51 2143 1147;Contabilidade;;False;True;14/12/2011 17:34;SCRIPT.BAT;06/08/2020 07:22;Mat: 14347;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Contabilidade/Deise Maria Nunes;Deise ;Deise ,,Deise Maria Nunes - Conservas Oderich S/A,,deise@oderich.com.br,,,,51 2143 1147,,,,,,,,,,,,,,,,,,Contabilidade-Vila Rica
+Vila Rica;leonar;Leonar Antonio Finkler;leonar@odreich.com.br;51 2143 1135;Contabilidade;;False;True;16/08/2000 10:18;SCRIPT.BAT;27/07/2020 07:42;Mat: 10083;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Contabilidade/Leonar Antonio Finkler;Leonar ;Leonar ,,Leonar Antonio Finkler - Conservas Oderich S/A,,leonar@odreich.com.br,,,,51 2143 1135,,,,,,,,,,,,,,,,,,Contabilidade-Vila Rica
+Vila Rica;Administrador;Administrador;;;Sistema;;True;True;15/08/2000 13:40;ADMIN.BAT;03/08/2020 00:01;USR -> RDP -> TS -> Desktop -> Administrador -> Senha:;oderich.com.br/Users/Administrador;;
+Vila Rica;agendador;agendador;;;Sistema;;True;True;02/02/2016 14:37;;24/10/2019 08:13;Agendador de tarefas (Execucao);oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/agendador;;
+Vila Rica;backup;Backup Bancos;;;Sistema;;True;True;22/01/2020 11:51;;;Usuário para bakcup Bancos;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Backup Bancos;;
+Vila Rica;katia.ferreira;Katia Celene Da Silva Ferreira;katia.ferreira@oderich.com.br;51 2143 1249;RH;;;;;;;Matr: 12027;;Katia ;Katia ,,Katia Celene Da Silva Ferreira - Conservas Oderich S/A,,katia.ferreira@oderich.com.br,,,,51 2143 1249,,,,,,,,,,,,,,,,,,RH-Vila Rica
+Vila Rica;patricia.koch;Patricia Schuh Koch;patricia.koch@oderich.com.br;51 2143 1249;RH;;;;;;;Matr:10176;;Patricia ;Patricia ,,Patricia Schuh Koch - Conservas Oderich S/A,,patricia.koch@oderich.com.br,,,,51 2143 1249,,,,,,,,,,,,,,,,,,RH-Vila Rica
+Vila Rica;admin;admin;;;Sistema;;True;True;04/11/2013 09:58;;24/10/2019 07:42;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/admin;;
+Vila Rica;mercador;Mercador;;;Sistema;;True;True;13/01/2006 09:44;SCRIPT.BAT;24/10/2019 07:32;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Mercador;;
+Vila Rica;oper3;oper3;;;Sistema;;True;True;27/09/2018 15:12;SCRIPT.BAT;31/07/2020 10:43;Usado para Monsta;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/oper3;;
+Vila Rica;painel.ti;Painel TI;sem email;51 2143 1120;Sistema;;;;;;;Painel de Monitoramento sala TI;;;
+Vila Rica;coletor10;Coletor10;;;Sistema;;;;;;;Localização - IND LATAS;;;
+Vila Rica;coletor11;Coletor11;;;Sistema;;;;;;;Localização - IND PCP BACKUP;;;
+Vila Rica;cfg;Desenvolvimento Conservas Oderich S/A;;;Sistema;;True;True;18/02/2019 13:54;SCRIPT.BAT;28/07/2020 08:41;;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Ti/Desenvolvimento Conservas Oderich S\/A;;
+Vila Rica;joao;Joao Mário Seitenfus;joao@oderich.com.br;51 2143 1177;RH;;False;True;23/05/2002 17:24;SCRIPT.BAT;03/08/2020 10:04;Mat: 8655;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Rh/Joao Mário Seitenfus;Joao ;Joao ,,Joao Mário Seitenfus - Conservas Oderich S/A,,joao@oderich.com.br,,,,51 2143 1177,,,,,,,,,,,,,,,,,,RH-Vila Rica
+Vila Rica;graziele;Graziele Solange Maldaner;graziele@oderich.com.br;51 2143 1173;Financeiro;;;;;;;Mat: 15028;;Graziele ;Graziele ,,Graziele Solange Maldaner - Conservas Oderich S/A,,graziele@oderich.com.br,,,,51 2143 1173,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;janaina;Janaina Lamb Lehmen;janaina@oderich.com.br;51 2143 1157;Financeiro;;;;;;;Mat: 15149;;Janaina ;Janaina ,,Janaina Lamb Lehmen - Conservas Oderich S/A,,janaina@oderich.com.br,,,,51 2143 1157,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;joice;Joice Weissheimer Klein;joice@oderich.com.br;51 2143 1174;Financeiro;;;;;;;Mat: 17803;;Joice ;Joice ,,Joice Weissheimer Klein - Conservas Oderich S/A,,joice@oderich.com.br,,,,51 2143 1174,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;cintia;Cintia Reis Atz;cintia@oderich.com.br;51 2143 1134;Financeiro;;;;;;;Mat: 14883;;Cintia ;Cintia ,,Cintia Reis Atz - Conservas Oderich S/A,,cintia@oderich.com.br,,,,51 2143 1134,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;eurenice;Eurenice Maria Da Silva Giuliani;eurenice@oderich.com.br;51 2143 1131;Financeiro;;False;True;28/11/2007 13:30;VILA_FINANCEIRO.BAT;30/07/2020 13:03;Mat: 11392;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Financeiro/Eurenice Maria Da Silva Giuliani;Eurenice ;Eurenice ,,Eurenice Maria Da Silva Giuliani - Conservas Oderich S/A,,eurenice@oderich.com.br,,,,51 2143 1131,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;gabriel.laux;Gabriel Laux;gabriel.laux@oderich.com.br;51 2143 1138;Financeiro;;;;;;;Mat: 15232;;Gabriel ;Gabriel ,,Gabriel Laux - Conservas Oderich S/A,,gabriel.laux@oderich.com.br,,,,51 2143 1138,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;eduardo.pasqualin;Eduardo Couto Pasqualin;eduardo.pasqualin@oderich.com.br;51 2143 1249;RH;;;;;;;Mat: 18344;;Eduardo ;Eduardo ,,Eduardo Couto Pasqualin - Conservas Oderich S/A,,eduardo.pasqualin@oderich.com.br,,,,51 2143 1249,,,,,,,,,,,,,,,,,,RH-Vila Rica
+Vila Rica;guilherme;Guilherme V. Kaiser;guilherme@oderich.com.br;51 2143 1149;RH;;;;;;;;;Guilherme ;Guilherme ,,Guilherme V. Kaiser - Conservas Oderich S/A,,guilherme@oderich.com.br,,,,51 2143 1149,,,,,,,,,,,,,,,,,,RH-Vila Rica
+Vila Rica;jefersond;Jeferson de Paula Diefenthaeler;jefersond@oderich.com.br;51 2143 1149;RH;;False;True;07/01/2015 10:53;SCRIPT.BAT;30/07/2020 07:39;Mat: 10900;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Rh/Jeferson de Paula Diefenthaeler;Jeferson ;Jeferson ,,Jeferson de Paula Diefenthaeler - Conservas Oderich S/A,,jefersond@oderich.com.br,,,,51 2143 1149,,,,,,,,,,,,,,,,,,RH-Vila Rica
+Vila Rica;julio;Julio Cesar Campani;julio@oderich.com.br;51 2143 1139;Financeiro;;;;;;;;;Julio ;Julio ,,Julio Cesar Campani - Conservas Oderich S/A,,julio@oderich.com.br,,,,51 2143 1139,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;lucia;Lucia Fernandes Flores;lucia@oderich.com.br;51 2143 1168;Financeiro;;;;;;;Mat: 13476;;Lucia ;Lucia ,,Lucia Fernandes Flores - Conservas Oderich S/A,,lucia@oderich.com.br,,,,51 2143 1168,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+Vila Rica;financeiro;Patrick Pluta Monteiro;patrick.p@oderich.com.br;51 2143 1132;Financeiro;;;;;;;Mat: 18204;;Patrick ;Patrick ,,Patrick Pluta Monteiro - Conservas Oderich S/A,,patrick.p@oderich.com.br,,,,51 2143 1132,,,,,,,,,,,,,,,,,,Financeiro-Vila Rica
+zConta Desativada;pamela;Pamela Oprach Graboski;recebimento.eldorado@oderich.com.br;51 2123 0933;Administracao;;;;;;;;;;
+zConta Desativada;wilson;Wilson Luis de Oliveira;o@oderich.com.br;64 3474 3400 Ramal;;;True;False;03/09/2007 15:19;SCRIPT-OZN.bat;19/08/2019 07:50;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Wilson Luis de Oliveira;;
+zConta Desativada;wellington;Wellington Teixeira;o@oderich.com.br;64 3474 3400 Ramal;;;True;False;06/03/2014 08:06;SCRIPT-OZN.bat;05/08/2019 07:42;USR -> Rede Local -> Limitado ->;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Wellington Teixeira;;
+zConta Desativada;pcp.industria;PCP Industria;a@oderich.com.br;51 2143 1;Custos;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;eversons;eversons;;;Custos;;;;;;;;;;
+zConta Desativada;angelal;Angela Luisa Koch Oderich;angela@oderich.com.br;51 2143 1239;CAO;;;;;;;;;;
+zConta Desativada;totvs.jakson;TOTVS - Jakson TIS Joinville;;;;;True;False;06/04/2017 14:39;;21/09/2017 08:22;;oderich.com.br/ODERICH/Serviços/TOTVS-TIS/TOTVS - Jakson TIS Joinville;;
+zConta Desativada;totvs;totvs;;;;;True;True;20/06/2014 14:20;SCRIPT.BAT;24/10/2019 07:32;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/totvs;;
+zConta Desativada;thomas.totvs;Thomas Roeder;;;;;True;False;02/02/2016 14:30;;14/09/2017 08:30;USR -> RDP -> TS -> Desktop -> Administrador -> Senha:;oderich.com.br/ODERICH/Serviços/TOTVS-TIS/Thomas Roeder;;
+zConta Desativada;vicente.vicenzi;Vicente Vicenzi;;;;;True;False;10/04/2018 12:49;SCRIPT.BAT;26/11/2018 07:54;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Vicente Vicenzi;;
+zConta Desativada;vicente.f;Vicente da Silva Flores;;;;;;;;;;;;;
+zConta Desativada;vera;Vera Weyh Passos;;;;;;;;;;;;;
+zConta Desativada;carlos.henrique;Carlos Henrique Oderich;carlos.henrique@oderich.com.br;51 2143 1248;Diretoria;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;milton;Milton Henz 2;henzmilton@gmail.com;51 2143 1204;Manutencao;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;manutencao;Manutenção Oderich;a@oderich.com.br;51 2143 1253;Manutencao;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;hugo;Hugo Victor Fernandes;hugo@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Mat: 10886;;;
+zConta Desativada;dep.tecnico;Dep tecnico;a@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 18298;;;
+zConta Desativada;Rodrigo.eld;Rodrigo eldorado;rodrigo@oderich.com.br;51 2123 09;Manutencao;;;;;;;;;;
+zConta Desativada;odair;Odair Afonso Silva;a@oderich.com.br;51 2143 1253;Manutencao;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;bruno;Bruno Garcia Padilha;bruno@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Mat: 11402;;;
+zConta Desativada;projetos1.eldorado;projetos1.eldorado;;51 2123 09;Manutenca;;;;;;;;;;
+zConta Desativada;ozn-vitor;ozn-vitor;o@oderich.com.br;64 3474 3400 Ramal;Diretoria;;True;False;25/06/2013 11:03;SCRIPT-OZN.bat;28/10/2019 07:51;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/ozn-vitor;;
+zConta Desativada;giovani.f;Giovanni Flores Hammes;giovani.f@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Mat: 15477;;;
+zConta Desativada;mengato;Eduardo Francisco Mengato;mengato@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Mat: 15017;;;
+zConta Desativada;savino;Daniel Hillebrand Savino;savino@oderich.com.br;51 2143 1253;Manutencao;;;;;;;Mat: 17941;;;
+zConta Desativada;teste.thomas;teste.thomas;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;paulo;Paulo Kaiser de Sousa;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;paulo.dias;Paulo Henrique Dias;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;paulo.cesar;Paulo Cesar Pereira da Silva;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;pef_luis;pef luis;a@oderich.com.br;51 2143 1;;;True;False;18/12/2017 10:05;SCRIPT.BAT;01/08/2019 07:18;luis@2017;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/pef luis;;
+zConta Desativada;rocha;Paulo Roberto Silva Rocha;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;pauloroberto;Paulo Roberto Fritch;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;patricia.machado;Patricia Ribeiro Machado;a@oderich.com.br;51 2143 1;;;True;False;29/09/2015 07:18;SCRIPT.BAT;04/11/2019 09:29;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Patricia Ribeiro Machado;;
+zConta Desativada;ozn-ambiental;ozn-ambiental;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;oper2;oper2;;;;;;;;;;;;;
+zConta Desativada;cesar;Paulo Cesar;;;;;;;;;;;;;
+zConta Desativada;Paulo.eld;Paulo;projetos.eldorado@oderich.com.br;;;;;;;;;;;;
+zConta Desativada;patrick;Patrick Maciel;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;pef_ricardo;pef_ricardo;a@oderich.com.br;51 2143 1;;;True;False;30/11/2017 15:08;SCRIPT.BAT;05/08/2019 08:34;ricardo@2017;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/pef_ricardo;;
+zConta Desativada;roger;Roger da Silva;;;;;;;;;;;;;
+zConta Desativada;rodrigomoraes;Rodrigo Teixeira Moraes;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;sousas;Rodrigo Ozn teste;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;Conta para testar Rodrigo Sousa impressao;;;
+zConta Desativada;taf;TAF;;;;;True;False;07/06/2018 13:30;SCRIPT.BAT;08/08/2019 09:53;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/TAF;;
+zConta Desativada;synergya;Synergya;a@oderich.com.br;51 2143 1;;;True;False;17/10/2012 09:24;SCRIPT.BAT;26/10/2017 08:32;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Synergya;;
+zConta Desativada;ronan;Ronan Ferreira de Castro;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;rafaela;Rafaela Dias de Oliveira;;;;;;;;;;;;;
+zConta Desativada;rafaelsantos;Rafael Leonardo dos Santos;;;;;;;;;;;;;
+zConta Desativada;pelotas.etiq;pelotas.etiq;;;;;True;False;09/02/2016 17:26;;30/08/2018 13:10;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/pelotas.etiq;;
+zConta Desativada;rodrigovieira;Rodrigo de Jesus Vieira;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;rodrigob;Rodrigo Bertissolo;;;;;True;False;14/05/2013 07:34;SCRIPT.BAT;14/10/2019 07:49;USR -> Rede Local -> Limitado -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Rodrigo Bertissolo;;
+zConta Desativada;rodrigop;Rodrigo;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;ozn.laboratorio1;Laboratório Orizona;laboratorio.orizona@oderich.com.br;64 3474 3400 Ramal 444;Qualidade;;;;;;;;;;
+zConta Desativada;zinsta;zinsta;;;Sistema;;True;False;27/03/2019 16:06;TOTVS_Instalacao_progress_SP_11_7_5.bat;24/06/2020 16:54;ao logar, instala lista de programas 64 bits senha;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/zinsta;;
+zConta Desativada;tatiana.becker;wetertwert;expedicao.cai@oderich.com.br;51 2143 1247;Sistema;;;;;;;Mat: 11019;;;
+zConta Desativada;suporte3;suporte3;;;Sistema;;True;False;24/05/2019 07:53;Bit.bat;28/10/2019 07:20;qwe123#;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/suporte3;;
+zConta Desativada;datasul5;datasul5;;;Terceiros;;True;False;10/12/2014 09:47;SCRIPT.BAT;16/02/2017 12:43;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/datasul5;;
+zConta Desativada;datasul10;datasul10;;;Terceiros;;True;False;07/11/2014 08:14;SCRIPT.BAT;09/04/2018 07:28;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/datasul10;;
+zConta Desativada;alvaro;Alvaro Mombach;;;Terceiros;;True;False;12/11/2013 07:29;SCRIPT.BAT;01/08/2019 08:43;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Alvaro Mombach;;
+zConta Desativada;ozn.revisao;ozn.revisao;o@oderich.com.br;64 3474 3400 Ramal;Sistema;;;;;;;tomates;;;
+zConta Desativada;mercador2;mercador 2;;;Sistema;;True;False;31/01/2018 08:24;SCRIPT.BAT;28/10/2019 08:43;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/mercador 2;;
+zConta Desativada;mapas;Mapas;;;Sistema;;;;;;;Senha: oderich@2019;;;
+zConta Desativada;suporte2;Suporte2;;;Sistema;;;;;;;;;;
+zConta Desativada;producao.eldorado;Producao Eldorado;;51 2123 09;Sistema;;;;;;;;;;
+zConta Desativada;ozn-portaria2;ozn-portaria2;o@oderich.com.br;64 3474 3400 Ramal;Sistema;;;;;;;;;;
+zConta Desativada;datasystem;Datasystem;;;Terceiros;;True;False;17/08/2017 16:03;SCRIPT.BAT;28/08/2017 08:09;rech#2017;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Datasystem;;
+zConta Desativada;toshyro4;toshyro4;;;Terceiros;;True;False;01/02/2017 07:58;SCRIPT.BAT;21/09/2017 08:00;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/toshyro4;;
+zConta Desativada;toshyro2;toshyro2;;;Terceiros;;True;False;21/01/2016 13:02;;28/10/2019 09:14;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/toshyro2;;
+zConta Desativada;toshyro;toshyro;;;Terceiros;;True;False;04/05/2015 10:23;;21/05/2018 14:52;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/toshyro;;
+zConta Desativada;matheus;Matheus Postal Rizzi;matheus.rizzi@oderich.com.br;51 2143 1121;TI;;True;False;05/08/2019 12:01;;18/12/2019 16:25;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Matheus Postal Rizzi;;
+zConta Desativada;matheuspr#;Matheus P. Rizzi;matheus.rizzi@oderich.com.br;51 2143 1121;TI;;True;False;24/07/2019 13:22;;25/12/2019 18:25;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Matheus P. Rizzi;;
+zConta Desativada;totvs.monitoramento;TOTVS Monitoramento;;;Terceiros;;True;False;29/01/2016 08:53;SCRIPT.BAT;20/02/2017 07:56;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/TOTVS Monitoramento;;
+zConta Desativada;Easy_Leandro;Easy_Leandro;;;Terceiros;;True;False;25/05/2018 14:00;;18/11/2018 21:00;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Easy_Leandro;;
+zConta Desativada;easy_guilherme;Easy_Guilherme;;;Terceiros;;True;False;26/03/2018 11:10;;24/10/2019 10:16;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Easy_Guilherme;;
+zConta Desativada;Easy_Aliatan;Easy_Aliatan;;;Terceiros;;True;False;07/06/2018 15:07;;01/08/2019 09:55;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Easy_Aliatan;;
+zConta Desativada;toshiro3;toshiro3;;;Terceiros;;True;False;31/10/2016 13:44;;27/11/2017 08:41;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/toshiro3;;
+zConta Desativada;luiz.ferreira;Luiz Fernando Ferreira;toshyro@toshyro.com.br;51 3714 7047;Terceiros;;True;False;20/03/2020 15:16;;17/04/2020 15:39;Prestador de Serviço;oderich.com.br/ODERICH/USUARIOS/Cai_Vila/Prestadores de Serviços/Luiz Fernando Ferreira;;
+zConta Desativada;ernesto.stafani;Ernesto Stefani;;;Terceiros;;True;False;15/02/2017 14:06;SCRIPT.BAT;05/08/2019 09:10;Consultoria BLoDfFn5;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Ernesto Stefani;;
+zConta Desativada;manutencao1;Manutencao;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+zConta Desativada;receb.eld;Recebimento Eldorado;recebimento.eldorado@oderich.com.br;51 2123 0933;Recebimento;;;;;;;;;;
+zConta Desativada;Pel-recebimento;Pel-recebimento;;;Recebimento;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;millene;Milenne Cardozo Dallongaro;;;Recebimento;;;;;;;senha: millene#2017;;;
+zConta Desativada;consultorio;Consultorio;a@oderich.com.br;51 2143 1;RH;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;audiometria;Audiometria;;51 2123 09;RH;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;rhanon;Rhanon;rhanon@oderich.com.br;51 2143 1279;Recebimento;;;;;;;;;;
+zConta Desativada;ped.cai;PED CAI;a@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 17973;;;
+zConta Desativada;silva;Marcos da Silva Flores;silva@oderich.com.br;51 2143 1252;Qualidade;;;;;;;Mat: 8661;;;
+zConta Desativada;leonardof;Leonardo Felix;a@oderich.com.br;51 2143 1252;Qualidade;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;gabrielas;Gabriela Silva da Silva;recebimento.eldorado@oderich.com.br;51 2123 0933;Recebimento;;;;;;;;;;
+zConta Desativada;qa.vilarica;Qualidade Vila Rica;cintia@oderich.com.br;;Qualidade;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;ped.pelotas;ped.pelotas ped.pelotas;ped.pelotas@oderich.com.br;53 2123 9800 Ramal 239;Qualidade;;;;;;;;;;
+zConta Desativada;dpcai3;dpcai3;a@oderich.com.br;51 2143 12;RH;;;;;;;;;;
+zConta Desativada;ozn.embalagem;Embalagem Orizona;o@oderich.com.br;64 3474 3400 Ramal;Sistema;;;;;;;;;;
+zConta Desativada;devolucao;Devolução;;51 2143 1255;Sistema;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;desconecta2;Desconecta Usuario - Pelotas;;;Sistema;;True;False;18/12/2017 10:12;SCRIPT.BAT;10/12/2018 09:24;0D3r!ch2;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Desconecta Usuario - Pelotas;;
+zConta Desativada;lito_01;lito_01;;51 2123 0927;Sistema;;;;;;;;;;
+zConta Desativada;faturamento01;Faturamento Granja;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+zConta Desativada;encaixotamento;Encaixotamento;;51 2143 1255;Sistema;;;;;;;;;;
+zConta Desativada;balcao2;Balcao Almoxarifado Oderich Cai 2;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+zConta Desativada;arq.ind;Arquivos Indústria;a@oderich.com.br;51 2143 1;Sistema;;True;False;22/11/2018 09:55;SCRIPT.BAT;28/10/2019 08:43;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Arquivos Indústria;;
+zConta Desativada;jonathan;Jonathan Henrique Brinker 2;jonathan@oderich.com.br;51 2143 1249;RH;;;;;;;;;;
+zConta Desativada;desconecta3;Desconecta Usuario - Orizona;;;Sistema;;True;False;18/12/2017 10:14;SCRIPT.BAT;10/12/2018 07:54;0D3r!ch3;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Desconecta Usuario - Orizona;;
+zConta Desativada;desconecta;Desconecta Usuario - Indústria;;;Sistema;;True;False;13/12/2017 10:12;SCRIPT.BAT;24/10/2019 07:53;0D3r!ch;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Desconecta Usuario - Indústria;;
+zConta Desativada;balcao3;Balcao Almoxarifado Oderich Cai 3;a@oderich.com.br;51 2143 1;Sistema;;;;;;;;;;
+zConta Desativada;oper;oper;;;;;True;True;14/01/2004 10:39;SCRIPT.BAT;24/11/2019 03:01;USR -> RDP -> TS -> Desktop -> Administrador -> Senha:@admtotvs@  @admoderich@   qwe123;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/oper;;
+zConta Desativada;diegog;Diego roberto Groth;;;;;True;False;15/07/2014 14:08;;27/02/2017 09:02;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Diego roberto Groth;;
+zConta Desativada;debora;Debora Josiane Islabao Kunde Vilela;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;danielav;Daniela Vizentini;danielav@oderich.com.br;;;;;;;;;;;;
+zConta Desativada;eduardo;Eduardo Paolazzi;eduardoluis@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;eduardol;Eduardo Luiz Vieira Gastal;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;douglas;Douglas Aurelio;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;cristiano;Cristiano J. da Silva;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;coutinho;coutinho;;;;;;;;;;;;;
+zConta Desativada;Convidado;Convidado;;;;;True;False;15/08/2000 13:40;SCRIPT.BAT;;Conta interna para acesso como convidado ao computador/domínio;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Convidado;;
+zConta Desativada;danielm;Daniel Marcelino Machado;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;CtxLSuser;CtxLSuser;;;;;True;False;16/04/2008 13:00;;24/10/2019 09:34;Citrix;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/CtxLSuser;;
+zConta Desativada;CtxLMCuser;CtxLMCuser;;;;;True;False;16/04/2008 13:00;;24/10/2019 08:02;Citrix;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/CtxLMCuser;;
+zConta Desativada;eduardo.rocha;Eduardo Rocha Polino;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;guest;guest;;;;;;;;;;Conta interna para acesso como convidado ao computador/domínio;;;
+zConta Desativada;greison;Greison Hensel;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;gregori;Gregori Hugo Espitalher;;;;;;;;;;;;;
+zConta Desativada;jaime;Jaime Machado;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;isac;Isac de Oliveira Damasceno;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;inez;Inez Z. Dutra;inez@oderich.com.br;;;;True;False;23/05/2002 17:20;SCRIPT.BAT;03/12/2018 07:51;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Inez Z. Dutra;;
+zConta Desativada;expedicao.eldorado;expedicao;;;;;;;;;;oderich@2019;;;
+zConta Desativada;eva;Eva Ondina Bandeira de Avila;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;enfermaria.eldorado;Enfermaria Eldorado;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;fernanda;Fernanda da Silva;;;;;;;;;;;;;
+zConta Desativada;fabio.totvs;Fabio Dione;;;;;True;False;31/05/2017 09:36;;14/09/2017 08:20;;oderich.com.br/ODERICH/Serviços/TOTVS-TIS/Fabio Dione;;
+zConta Desativada;expedicao2.pelotas;Expedicao Pelotas 2;;;;;;;;;;;;;
+zConta Desativada;cleo;Cleo Machado;;;;;;;;;;;;;
+zConta Desativada;andre.junior;Andre Junior;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;anap;Ana Paula Luz;a@oderich.com.br;51 2143 1;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;anapaula;Ana Paula;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;dresch;Antonio Jose Dresch;vendas@oderich.com.br;;;;True;False;23/05/2002 17:19;SCRIPT.BAT;31/08/2017 08:04;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Antonio Jose Dresch;;
+zConta Desativada;anildo;Anildo Vareira Matos;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;andreiah;Andréia Elisabete Haas;;;;;;;;;;;;;
+zConta Desativada;adriana;Adriana  Meirelles;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;admin.kaspersky;Administrador Tarefas Kasperky;;;;;True;False;18/04/2017 16:52;;06/08/2019 12:17;Administrador Tarefas Kaspesrky  // 1@2mudou;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Administrador Tarefas Kasperky;;
+zConta Desativada;adao;Adão Eliais Baad Ribes;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;aline;Aline da Silva Braga;ambiental.pelotas@oderich.com.br;53 2123 9800 Ramal 237;;;;;;;;senha: aline#2017;;;
+zConta Desativada;aime;Aimê Barbosa da Cruz;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;adriano.totvs;Adriano Luiz;;;;;True;False;31/05/2017 09:34;;14/09/2017 09:34;;oderich.com.br/ODERICH/Serviços/TOTVS-TIS/Adriano Luiz;;
+zConta Desativada;antonio;Antonio Vinicius Flores Pereira;;;;;;;;;;senha: antonio#2017;;;
+zConta Desativada;carla;Carla Venzke;carla.venzke@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;carine;Carine da Silva Couto;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;carem;Carem Santos;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;clareci;Clareci Lopes dos Santos;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;talesl;Carrard Ledur;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;cassini;Carlos Eduardo Cassini;cassini@oderich.com.br;;;;True;False;04/04/2016 08:59;SCRIPTs.BAT;17/12/2018 07:17;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Carlos Eduardo Cassini;;
+zConta Desativada;barbara;Barbara stroher froener;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;backup.monitoramento;Backup Monitoramento TOTVS;;;;;True;False;08/09/2015 16:41;SCRIPT.BAT;20/02/2017 07:33;SR -> RDP -> TS -> Desktop -> Administrador -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Backup Monitoramento TOTVS;;
+zConta Desativada;aparecida;Aparecida Rangel de Fraga;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;bruno.totvs;bruno.totvs;;;;;True;False;26/06/2014 14:06;SCRIPT.BAT;28/10/2019 09:14;senha:oderich;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/bruno.totvs;;
+zConta Desativada;bruno.piltz;Bruno Piltz;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;bibiane;Bibiane Fontoura Barros;bibiane@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;Jesus;Jesus J. Souza;;;;;True;False;28/09/2005 10:54;SCRIPT.BAT;03/09/2018 07:27;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Jesus J. Souza;;
+zConta Desativada;leonardol;Leonardo Lenz Barbosa;;;;;True;False;18/04/2017 15:11;SCRIPT.BAT;18/09/2019 11:54;USR -> Rede Local -> Limitado -> Senha:;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Leonardo Lenz Barbosa;;
+zConta Desativada;krbtgt;krbtgt;;;;;True;False;15/08/2000 13:50;;;Conta de serviço do centro de distribuição de chaves;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/krbtgt;;
+zConta Desativada;KL-AK-E47DB444E6CB99;KL-AK-E47DB444E6CB99;;;;;True;False;30/10/2014 14:37;;30/10/2014 14:39;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-E47DB444E6CB99;;
+zConta Desativada;lia;Lia Piovesan;lia@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;leticia.castro;Leticia Reis Castro;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;leonardob;Leonardo Willian Becker;;leonardob@oderich.com.br;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;KL-AK-A8B5F17B6AF340;KL-AK-A8B5F17B6AF340;;;;;True;False;06/12/2013 11:00;;23/10/2014 15:37;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-A8B5F17B6AF340;;
+zConta Desativada;KL-AK-9AE7691DCDF803;KL-AK-9AE7691DCDF803;;;;;True;False;04/07/2012 14:16;;27/10/2014 07:36;Account which is used for Administration Server operations.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-9AE7691DCDF803;;
+zConta Desativada;KL-AK-88F870F90F3E43;KL-AK-88F870F90F3E43;;;;;True;False;04/07/2012 14:14;;23/10/2014 13:10;Account which is used for Administration Server operations.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-88F870F90F3E43;;
+zConta Desativada;KL-AK-DAF5E77B8D5930;KL-AK-DAF5E77B8D5930;;;;;True;False;24/06/2013 14:51;;27/10/2014 11:00;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-DAF5E77B8D5930;;
+zConta Desativada;KL-AK-C150EF1FD85399;KL-AK-C150EF1FD85399;;;;;True;False;23/05/2013 15:01;;23/10/2014 12:39;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-C150EF1FD85399;;
+zConta Desativada;KL-AK-BFDF751DA3A959;KL-AK-BFDF751DA3A959;;;;;True;False;27/05/2013 14:15;;27/10/2014 08:01;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-BFDF751DA3A959;;
+zConta Desativada;lucas;Lucas Sabbado;;;;;True;False;21/01/2014 20:36;SCRIPT.BAT;06/03/2017 08:10;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/Lucas Sabbado;;
+zConta Desativada;mauro;Mauro Carvalho;;;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;mauber.coelho;Mauber Coelho;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;matheusb;Matheus Bertoti;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;neogrid;neogrid;;;;;True;False;15/07/2009 15:24;SCRIPT.BAT;25/01/2016 08:03;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/neogrid;;
+zConta Desativada;monitoramento.totvs;monitoramento totvs;;;;;;;;;;Usuario utilizado para monitoramento, nao redefinir senhas.;;;
+zConta Desativada;mig;mig;;;;;True;False;04/05/2020 14:19;ADMIN.BAT;04/05/2020 14:47;;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/mig;;
+zConta Desativada;marcia;Marcia Adriana Schultz;a@oderich.com.br;51 2143 1;;;;;;;;USR -> Rede Local -> Limitado -> Senha:;;;
+zConta Desativada;leivas;Luis Leivas;leivas@oderich.com.br;;;;;;;;;;;;
+zConta Desativada;luciano;Luciano Escobar;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;marlene;Marlene de Fatima Silva Soare;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;mines;Maria Ines;;;;;;;;;;;;;
+zConta Desativada;benedetti;Marco A. Benedetti;a@oderich.com.br;51 2143 1;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;KL-AK-83F69952D12E3D;KL-AK-83F69952D12E3D;;;;;True;False;27/05/2013 10:40;;27/10/2014 10:48;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-83F69952D12E3D;;
+zConta Desativada;juliana;Juliana Bitencort;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;josiane;Josiane Pinheiro Hessler;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;josiane.aimon;Josiane Aimon;a@oderich.com.br;51 2143 1;;;;;;;;Ped00$#;;;
+zConta Desativada;kenia.alves;Kenia Alves Ferreira Marcal;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;kaspersky;kaspersky;;;;;True;False;30/10/2014 17:46;ADMIN.BAT;28/10/2019 08:42;senha: totvs@123  // 1@2mudou;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/kaspersky;;
+zConta Desativada;karen;Karen da Silva Rodrigues;a@oderich.com.br;51 2143 1;;;;;;;;;;;
+zConta Desativada;joaoeasy5;Joao Easy 5;;;;;;;;;;;;;
+zConta Desativada;joaoeasy3;Joao Easy 3;;;;;;;;;;;;;
+zConta Desativada;joaoeasy;Joao Easy;;;;;;;;;;;;;
+zConta Desativada;jordana;Jordana Rodrigues Acosta;manut.pelotas@oderich.com.br;53 2123 9800 Ramal 231;;;;;;;;;;;
+zConta Desativada;joao.luis;João Luis Dias dos Reis;;;;;;;;;;USR -> RDP -> TS -> Somente APP -> Limitado -> Senha:;;;
+zConta Desativada;joao.reis;Joao Henrique dos Reis;o@oderich.com.br;64 3474 3400 Ramal;;;;;;;;;;;
+zConta Desativada;KL-AK-00103C253B07FB;KL-AK-00103C253B07FB;;;;;True;False;30/10/2014 16:06;;30/10/2014 16:09;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-00103C253B07FB;;
+zConta Desativada;KL-AK-2BBE7DEA3F6D8B;KL-AK-2BBE7DEA3F6D8B;;;;;True;False;27/05/2013 10:37;;27/10/2014 07:49;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-2BBE7DEA3F6D8B;;
+zConta Desativada;KL-AK-2527749D4AFF64;KL-AK-2527749D4AFF64;;;;;True;False;07/10/2014 14:56;;30/10/2014 08:52;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-2527749D4AFF64;;
+zConta Desativada;KL-AK-1F87AC3611D0C3;KL-AK-1F87AC3611D0C3;;;;;True;False;09/09/2014 07:50;;30/10/2014 08:31;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-1F87AC3611D0C3;;
+zConta Desativada;KL-AK-6994338197C4D8;KL-AK-6994338197C4D8;;;;;True;False;27/05/2013 14:10;;27/10/2014 10:12;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-6994338197C4D8;;
+zConta Desativada;KL-AK-5BBAAFF8119F25;KL-AK-5BBAAFF8119F25;;;;;True;False;04/07/2012 13:34;;27/10/2014 10:22;Account which is used for Administration Server operations.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-5BBAAFF8119F25;;
+zConta Desativada;KL-AK-44271773868B65;KL-AK-44271773868B65;;;;;True;False;27/05/2013 13:50;;27/10/2014 10:36;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-44271773868B65;;
+zConta Desativada;KL-AK-09C716E29B44E2;KL-AK-09C716E29B44E2;;;;;True;False;27/05/2013 13:28;;27/10/2014 11:35;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-09C716E29B44E2;;
+zConta Desativada;KL-AK-07A15F6CD0780D;KL-AK-07A15F6CD0780D;;;;;True;False;09/09/2014 15:00;;30/10/2014 11:46;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-07A15F6CD0780D;;
+zConta Desativada;KL-AK-07626669F089B8;KL-AK-07626669F089B8;;;;;True;False;07/10/2014 10:06;;30/10/2014 07:51;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-07626669F089B8;;
+zConta Desativada;KL-AK-1F7FB87EC1F958;KL-AK-1F7FB87EC1F958;;;;;True;False;27/05/2013 11:56;;27/10/2014 07:26;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-1F7FB87EC1F958;;
+zConta Desativada;KL-AK-1710203CB18886;KL-AK-1710203CB18886;;;;;True;False;27/11/2013 10:12;;27/10/2014 07:38;Account under which the Administration Server runs.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-1710203CB18886;;
+zConta Desativada;KL-AK-10D1BFE1C6ACAB;KL-AK-10D1BFE1C6ACAB;;;;;True;False;23/09/2014 14:33;;24/10/2014 11:53;A conta em que o Servidor de Administração é executado.;oderich.com.br/ODERICH/USUARIOS/Usuários Desativados/KL-AK-10D1BFE1C6ACAB;;

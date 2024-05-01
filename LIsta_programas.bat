@@ -1,0 +1,1 @@
+reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\ /s | find "DisplayName"
